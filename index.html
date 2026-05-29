@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Janela Pop: noticias, teorias, trailers, reviews e cultura pop com foco em From, terror, series e filmes.">
+    <title>Janela Pop | Noticias, teorias e cultura pop</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Janela Pop">
+        <img src="assets/logo-janela-pop.png" alt="Janela Pop">
+      </a>
+      <nav class="top-nav" aria-label="Categorias principais">
+        <button data-filter="Todos" class="active">Todos</button>
+        <button data-filter="From">From</button>
+        <button data-filter="Terror">Terror</button>
+        <button data-filter="Series">Series</button>
+        <button data-filter="Filmes">Filmes</button>
+        <button data-filter="Trailers">Trailers</button>
+        <button data-filter="Teorias">Teorias</button>
+        <button data-filter="Reviews">Reviews</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <img src="assets/banner-janela-pop.png" alt="">
+        <div class="hero-copy">
+          <p class="eyebrow">Portal Janela Pop</p>
+          <h1>Noticias diretas, teorias fortes e cultura pop sem enrolacao.</h1>
+          <p>Um hub para transformar tendencias internacionais em pautas, posts e videos para o publico brasileiro.</p>
+        </div>
+      </section>
+
+      <section class="content-shell">
+        <div class="section-title">
+          <div>
+            <p class="eyebrow">Radar editorial</p>
+            <h2>Destaques para publicar agora</h2>
+          </div>
+          <input id="search" type="search" placeholder="Buscar por From, trailer, teoria...">
+        </div>
+
+        <div class="topic-strip" aria-label="Assuntos em destaque">
+          <span>FROM</span>
+          <span>The Boys</span>
+          <span>House of the Dragon</span>
+          <span>Netflix</span>
+          <span>Disney</span>
+          <span>Terror</span>
+          <span>Marvel e DC</span>
+        </div>
+
+        <div id="posts" class="post-grid" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <img src="assets/logo-janela-pop.png" alt="">
+      <p>Janela Pop - cultura pop, terror, series, filmes, teorias e trailers.</p>
+    </footer>
+
+    <script src="scripts/site.js"></script>
+  </body>
+</html>

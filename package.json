@@ -1,0 +1,13 @@
+{
+  "name": "portal-janela-pop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portal gratuito do Janela Pop para noticias, teorias e cultura pop.",
+  "scripts": {
+    "dev": "node server.js",
+    "radar": "node scripts/radar-portal.js",
+    "aprovar": "node scripts/aprovar-candidato.js",
+    "telegram": "node scripts/processar-telegram.js",
+    "notificar": "node scripts/notificar-candidato.js"
+  }
+}
