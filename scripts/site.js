@@ -56,6 +56,9 @@ function renderPosts() {
   const root = document.querySelector("#posts");
   if (!root) return;
 
+  const categoryFromUrl = new URLSearchParams(window.location.search).get("cat");
+  if (categoryFromUrl) state.filter = categoryFromUrl;
+
   const filtered = state.posts.filter((post) => {
     const categoryMatch = state.filter === "Todos" || post.category === state.filter;
     const query = state.query.toLowerCase();
@@ -63,10 +66,12 @@ function renderPosts() {
     return categoryMatch && queryMatch;
   });
 
-  root.innerHTML = filtered
+  const postsToShow = document.querySelector("#featured") ? filtered.slice(1) : filtered;
+
+  root.innerHTML = postsToShow
     .map(
       (post) => `
-        <a class="post-card" href="/post?slug=${post.slug}">
+        <a class="post-card" href="post.html?slug=${post.slug}">
           <div class="thumb">
             <img src="${post.image}" alt="">
           </div>
@@ -82,6 +87,34 @@ function renderPosts() {
       `
     )
     .join("");
+
+  renderFeatured(filtered[0]);
+  renderCategoryTitle(categoryFromUrl);
+}
+
+function renderFeatured(post) {
+  const root = document.querySelector("#featured");
+  if (!root || !post) return;
+
+  root.innerHTML = `
+    <a class="featured-card" href="post.html?slug=${post.slug}">
+      <img src="${post.image}" alt="">
+      <div class="featured-copy">
+        <div class="meta">
+          <span class="tag">${post.category}</span>
+          <span>${post.date}</span>
+        </div>
+        <h3>${post.title}</h3>
+        <p>${post.excerpt}</p>
+      </div>
+    </a>
+  `;
+}
+
+function renderCategoryTitle(categoryFromUrl) {
+  const title = document.querySelector("#category-title");
+  if (!title) return;
+  title.textContent = categoryFromUrl || "Todos";
 }
 
 function renderArticle() {
@@ -112,6 +145,14 @@ async function loadPosts() {
   );
 
   state.posts = loaded;
+  const categoryFromUrl = new URLSearchParams(window.location.search).get("cat");
+  if (categoryFromUrl) {
+    const matchingButton = document.querySelector(`[data-filter="${categoryFromUrl}"]`);
+    if (matchingButton) {
+      document.querySelectorAll("[data-filter]").forEach((item) => item.classList.remove("active"));
+      matchingButton.classList.add("active");
+    }
+  }
   renderPosts();
   renderArticle();
 }

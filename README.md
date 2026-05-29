@@ -6,6 +6,8 @@ Site gratuito inicial para transformar noticias, teorias e tendencias internacio
 
 - Home com visual de portal de cultura pop.
 - Categorias para From, Terror, Series, Filmes, Teorias, Trailers e Reviews.
+- Destaque principal na home.
+- Pagina de categoria por assunto.
 - Posts em arquivos Markdown.
 - Pagina de materia.
 - Busca simples.

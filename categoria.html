@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Noticias por categoria no Janela Pop: cultura pop, series, filmes, terror, trailers, teorias e reviews.">
+    <title>Categoria | Janela Pop</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Janela Pop">
+        <img src="assets/logo-janela-pop.png" alt="Janela Pop">
+      </a>
+      <nav class="top-nav" aria-label="Categorias principais">
+        <a href="./">Todos</a>
+        <a href="categoria.html?cat=From">From</a>
+        <a href="categoria.html?cat=Terror">Terror</a>
+        <a href="categoria.html?cat=Series">Series</a>
+        <a href="categoria.html?cat=Filmes">Filmes</a>
+        <a href="categoria.html?cat=Trailers">Trailers</a>
+        <a href="categoria.html?cat=Teorias">Teorias</a>
+        <a href="categoria.html?cat=Reviews">Reviews</a>
+      </nav>
+    </header>
+
+    <main class="content-shell category-page">
+      <div class="section-title">
+        <div>
+          <p class="eyebrow">Janela Pop</p>
+          <h1 id="category-title">Categoria</h1>
+        </div>
+        <input id="search" type="search" placeholder="Buscar nesta categoria...">
+      </div>
+
+      <div id="posts" class="post-grid" aria-live="polite"></div>
+    </main>
+
+    <footer class="site-footer">
+      <img src="assets/logo-janela-pop.png" alt="">
+      <p>Janela Pop - cultura pop, terror, series, filmes, teorias e trailers.</p>
+    </footer>
+
+    <script src="scripts/site.js"></script>
+  </body>
+</html>
