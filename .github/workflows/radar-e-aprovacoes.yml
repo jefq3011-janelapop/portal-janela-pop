@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: portal-radar
@@ -44,3 +46,14 @@ jobs:
           git add data posts scripts assets index.html post.html styles.css package.json README.md
           git diff --cached --quiet || git commit -m "Atualizar portal automaticamente"
           git push
+
+      - name: Preparar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Enviar site para publicação
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Publicar site
+        uses: actions/deploy-pages@v4
