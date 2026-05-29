@@ -137,6 +137,7 @@ function cleanTitle(value) {
   return stripTags(value)
     .replace(/#[A-Za-z0-9_]+/g, "")
     .replace(/[^\x20-\x7E]/g, "")
+    .replace(/\s+-\s+(MSN|IGN|Collider|ScreenRant|Variety|Deadline|The Hollywood Reporter|ComicBook|Decider).*$/i, "")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -222,7 +223,7 @@ function parseFeed(xml, source) {
 function scoreItem(text) {
   const value = text.toLowerCase();
   let score = 0;
-  for (const term of ["trailer", "teaser", "theory", "explained", "episode", "confirmed", "ending", "finale", "release date"]) {
+  for (const term of ["trailer", "teaser", "theory", "explained", "episode", "confirmed", "ending", "finale", "release date", "renewed", "cancelled", "cast"]) {
     if (value.includes(term)) score += 2;
   }
   if (value.includes("from")) score += 2;
@@ -240,6 +241,18 @@ function makeId(value) {
 
 function translateTitle(title) {
   return title
+    .replace(/\bhere'?s\b/gi, "veja")
+    .replace(/\bwhen\b/gi, "quando")
+    .replace(/\bwatch\b/gi, "assistir")
+    .replace(/\breturns\b/gi, "retorna")
+    .replace(/\breturn\b/gi, "retorno")
+    .replace(/\bwith\b/gi, "com")
+    .replace(/\bcast\b/gi, "elenco")
+    .replace(/\bcancelled\b/gi, "cancelada")
+    .replace(/\brenewed\b/gi, "renovada")
+    .replace(/\bmovie\b/gi, "filme")
+    .replace(/\bfilm\b/gi, "filme")
+    .replace(/\bepisodes\b/gi, "episodios")
     .replace(/\bnew look at\b/gi, "nova imagem de")
     .replace(/\bpremiering this sunday\b/gi, "estreia neste domingo")
     .replace(/\bfans\b/gi, "fas")
