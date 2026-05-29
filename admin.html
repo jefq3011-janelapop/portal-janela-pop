@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex,nofollow">
+    <title>Painel Editorial | Janela Pop</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Janela Pop">
+        <img src="assets/logo-janela-pop.png" alt="Janela Pop">
+      </a>
+      <nav class="top-nav" aria-label="Painel">
+        <a href="./">Site</a>
+        <a href="admin.html">Painel</a>
+        <a href="categoria.html?cat=From">From</a>
+        <a href="categoria.html?cat=Series">Series</a>
+        <a href="categoria.html?cat=Filmes">Filmes</a>
+      </nav>
+    </header>
+
+    <main class="content-shell admin-page">
+      <div class="section-title">
+        <div>
+          <p class="eyebrow">Controle editorial</p>
+          <h1>Painel do Portal</h1>
+        </div>
+        <input id="admin-search" type="search" placeholder="Buscar por titulo, categoria ou status...">
+      </div>
+
+      <section class="admin-summary" id="admin-summary"></section>
+      <section class="admin-list" id="admin-list" aria-live="polite"></section>
+    </main>
+
+    <script src="scripts/admin.js"></script>
+  </body>
+</html>

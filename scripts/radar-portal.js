@@ -7,65 +7,77 @@ const CANDIDATES_FILE = path.join(ROOT, "data", "candidatos.json");
 
 const SOURCES = [
   {
-    label: "Collider",
+    label: "FROM - Collider",
     series: "FROM",
+    category: "From",
+    required: ["from"],
     url:
       "https://news.google.com/rss/search?q=" +
-      encodeURIComponent('FROM MGM+ Collider OR "FROM season" Collider when:2d') +
+      encodeURIComponent('("FROM MGM+" OR "FROM TV series" OR "FROM season 4" OR "FROM episode") Collider when:1d') +
       "&hl=en-US&gl=US&ceid=US:en",
   },
   {
-    label: "ScreenRant",
+    label: "FROM - ScreenRant",
     series: "FROM",
+    category: "From",
+    required: ["from"],
     url:
       "https://news.google.com/rss/search?q=" +
-      encodeURIComponent('FROM MGM+ ScreenRant OR "FROM season" ScreenRant when:2d') +
+      encodeURIComponent('("FROM MGM+" OR "FROM TV series" OR "FROM season 4" OR "FROM episode") ScreenRant when:1d') +
       "&hl=en-US&gl=US&ceid=US:en",
   },
   {
-    label: "Bloody Disgusting",
+    label: "FROM - Terror",
     series: "FROM",
+    category: "From",
+    required: ["from"],
     url:
       "https://news.google.com/rss/search?q=" +
-      encodeURIComponent('FROM MGM+ "Bloody Disgusting" OR "FROM season" horror when:2d') +
+      encodeURIComponent('("FROM MGM+" OR "FROM TV series" OR "FROM season 4") ("Bloody Disgusting" OR horror) when:1d') +
       "&hl=en-US&gl=US&ceid=US:en",
   },
   {
-    label: "IGN",
+    label: "FROM - IGN",
     series: "FROM",
+    category: "From",
+    required: ["from"],
     url:
       "https://news.google.com/rss/search?q=" +
-      encodeURIComponent('FROM MGM+ IGN OR "FROM episode" IGN when:2d') +
+      encodeURIComponent('("FROM MGM+" OR "FROM TV series" OR "FROM season 4" OR "FROM episode") IGN when:1d') +
       "&hl=en-US&gl=US&ceid=US:en",
   },
   {
     label: "Reddit FromSeries",
     series: "FROM",
     category: "From",
+    required: ["from"],
     url: "https://www.reddit.com/r/FromSeries/new/.rss",
   },
   {
     label: "Google News - Trailers",
     series: "Cultura pop",
     category: "Trailers",
+    required: ["trailer", "teaser"],
     url:
       "https://news.google.com/rss/search?q=" +
-      encodeURIComponent('("official trailer" OR teaser) (Netflix OR HBO OR Disney OR Marvel OR DC OR Prime Video) when:1d') +
+      encodeURIComponent('("official trailer" OR "teaser trailer" OR teaser) (Netflix OR HBO OR Disney OR Marvel OR DC OR Prime Video OR Universal OR Warner) when:1d') +
       "&hl=en-US&gl=US&ceid=US:en",
   },
   {
     label: "Google News - Series",
     series: "Series",
     category: "Series",
+    required: ["series", "season", "episode", "netflix", "hbo", "prime", "disney"],
     url:
       "https://news.google.com/rss/search?q=" +
-      encodeURIComponent('("new series" OR "season" OR "finale") (Netflix OR HBO OR Prime Video OR Disney+) when:1d') +
+      encodeURIComponent('("new series" OR "season" OR "episode" OR "finale" OR renewed OR cancelled) (Netflix OR HBO OR Prime Video OR Disney+ OR Hulu) when:1d') +
       "&hl=en-US&gl=US&ceid=US:en",
   },
   {
     label: "Google News - Filmes",
     series: "Filmes",
     category: "Filmes",
+    required: ["movie", "film", "trailer", "box office"],
     url:
       "https://news.google.com/rss/search?q=" +
       encodeURIComponent('("movie trailer" OR "new movie" OR "box office") (Disney OR Warner OR Universal OR Netflix) when:1d') +
@@ -75,9 +87,30 @@ const SOURCES = [
     label: "Google News - Terror",
     series: "Terror",
     category: "Terror",
+    required: ["horror", "scary", "terror"],
     url:
       "https://news.google.com/rss/search?q=" +
       encodeURIComponent('("horror movie" OR "horror series" OR "scary") (trailer OR release OR Netflix OR Shudder) when:1d') +
+      "&hl=en-US&gl=US&ceid=US:en",
+  },
+  {
+    label: "Google News - Marvel e DC",
+    series: "Marvel e DC",
+    category: "Filmes",
+    required: ["marvel", "dc", "superman", "batman", "avengers", "spider-man"],
+    url:
+      "https://news.google.com/rss/search?q=" +
+      encodeURIComponent('(Marvel OR DC OR Superman OR Batman OR Avengers OR "Spider-Man") (trailer OR movie OR series OR cast) when:1d') +
+      "&hl=en-US&gl=US&ceid=US:en",
+  },
+  {
+    label: "Google News - Variety Deadline THR",
+    series: "Cultura pop",
+    category: "Series",
+    required: ["series", "movie", "film", "trailer", "season", "cast"],
+    url:
+      "https://news.google.com/rss/search?q=" +
+      encodeURIComponent('(site:variety.com OR site:deadline.com OR site:hollywoodreporter.com) (trailer OR series OR movie OR film OR season OR cast) when:1d') +
       "&hl=en-US&gl=US&ceid=US:en",
   },
 ];
@@ -135,6 +168,23 @@ function imageForItem(item, source) {
   return "assets/banner-janela-pop.png";
 }
 
+function isRecent(item) {
+  const maxAgeHours = Number(process.env.PORTAL_MAX_AGE_HOURS || 24);
+  const publishedAt = Date.parse(item.pubDate || "");
+  if (!Number.isFinite(publishedAt)) return true;
+  const ageHours = (Date.now() - publishedAt) / 3600000;
+  return ageHours >= 0 && ageHours <= maxAgeHours;
+}
+
+function isRelevant(item) {
+  const text = `${item.title} ${item.description} ${item.series} ${item.category}`.toLowerCase();
+  const required = item.required || [];
+  if (required.length && !required.some((term) => text.includes(term))) return false;
+  if (/matka king|cricket|sports|stock market|weather|horoscope/i.test(text)) return false;
+  if (item.category === "From" && !/\bfrom\b|mgm\+|fromseries/i.test(text)) return false;
+  return true;
+}
+
 function parseFeed(xml, source) {
   const itemMatches = Array.from(xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)).map((match) => match[0]);
   const entryMatches = Array.from(xml.matchAll(/<entry\b[\s\S]*?<\/entry>/gi)).map((match) => match[0]);
@@ -162,6 +212,7 @@ function parseFeed(xml, source) {
       description,
       image: imageForItem(item, source),
       score: scoreItem(`${title} ${description}`),
+      required: source.required || [],
       status: "pendente",
       createdAt: new Date().toISOString(),
     };
@@ -229,6 +280,30 @@ async function fetchSource(source) {
   });
   if (!response.ok) throw new Error(`${source.label}: HTTP ${response.status}`);
   return parseFeed(await response.text(), source);
+}
+
+async function enrichImage(item) {
+  if (item.image && /^https?:\/\//i.test(item.image)) return item;
+  if (!/^https?:\/\//i.test(item.link)) return item;
+
+  try {
+    const response = await fetch(item.link, {
+      headers: {
+        "user-agent": "Mozilla/5.0 JanelaPopPortal/1.0",
+        accept: "text/html,*/*",
+      },
+    });
+    if (!response.ok) return item;
+    const html = await response.text();
+    const match =
+      html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)/i) ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
+      html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)/i);
+    if (match?.[1]) item.image = decodeHtml(match[1]);
+  } catch {
+    return item;
+  }
+  return item;
 }
 
 async function sendTelegramCandidate(item) {
@@ -306,10 +381,16 @@ async function main() {
 
   const newItems = found
     .filter((item) => item.title && item.link)
+    .filter(isRecent)
+    .filter(isRelevant)
     .filter((item) => item.score >= 3)
     .filter((item) => !knownIds.has(item.id))
     .sort((a, b) => b.score - a.score)
     .slice(0, 5);
+
+  for (const item of newItems) {
+    await enrichImage(item);
+  }
 
   current.items = [...newItems, ...current.items].slice(0, 60);
   saveCandidates(current);

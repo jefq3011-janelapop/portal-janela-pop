@@ -8,6 +8,7 @@ Site gratuito inicial para transformar noticias, teorias e tendencias internacio
 - Categorias para From, Terror, Series, Filmes, Teorias, Trailers e Reviews.
 - Destaque principal na home.
 - Pagina de categoria por assunto.
+- Painel editorial em `admin.html`.
 - Posts em arquivos Markdown.
 - Pagina de materia.
 - Busca simples.
