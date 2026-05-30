@@ -16,7 +16,8 @@
         "from"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T12:18:08.218Z"
+      "createdAt": "2026-05-30T12:18:08.218Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-e942c589",
@@ -28,7 +29,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczNHYV9GUGx4TlRIdzFVUTVIeGlVWFpTTXlFM3B5cUVrWG43OVFDdHVpUHl2QmhCV3FZaWtkWkUtRW5lVi0tTl8yeGd1Snhmb2tTRjBneHVCQW5zRE1LRWZ4WGJJS2NUMjM0QlRIMEpyTlctWE84cGkxLWxyeF9YMXpiajhJSGtSZkY1blJZZktuNndzdTVIY0VHYmtQbmppUGJYek1NN3NpOG9VZHA0bg?oc=5",
       "pubDate": "Sat, 30 May 2026 11:30:00 GMT",
       "description": "HBO's 'Euphoria' season 3 finale is one of the longest running episodes in TV history — just how long will it be? &nbsp;&nbsp; Decider",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/banner-janela-pop.png",
       "score": 4,
       "required": [
         "series",
@@ -40,7 +41,8 @@
         "disney"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T12:18:09.023Z"
+      "createdAt": "2026-05-30T12:18:09.023Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-9a0022ce",
@@ -52,7 +54,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGdHdmViRmVOUlRMVk5kcXgwS0RZS0NOOVVVb2tIcUFiMVgwMUQ1V3dpVzVZOVBXNkFRaHpHRktGX2NrSEYxNEMwRzhmWl9ZTU81eGlORHpyNUdFbk9VT29xRnVkbU1TNEZfQ0VZVlZCV0lCRlplQ2NnMGFUNGgxcEt5SkZMQk43RlhLUkRFOTJpdDhHRDZ0WTZ0QWhvTS05Z2p4YmFnZzkzamdRZGlGYUtabENPbWNyYXlvb2l3WHhEX1d5OU9JLUhBOVVxWmZQU1BPSFppaFp2MVRNTnlKeEpCYWVTQzl0?oc=5",
       "pubDate": "Fri, 29 May 2026 18:01:08 GMT",
       "description": "Who dies in “The Boys” season 5 finale? Inside the shocking series ending &nbsp;&nbsp; MSN",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boys-vought-rising.jpg",
       "score": 4,
       "required": [
         "series",
@@ -64,7 +66,8 @@
         "disney"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T12:18:09.026Z"
+      "createdAt": "2026-05-30T12:18:09.026Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-af22040",
@@ -76,7 +79,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQWEyQmhiS3Z5S292dkc3NXYzNzZMdDlXZ05yd3VzUHNCNTVOTWNNTVNzX3JtXzBCbjFDQTI5MG9paHFXYlh6X1ZSVVJHd1hGRTUxczVBWXJDeTdNNzVGa3M2cm9BOUtDdTc5dnFYRFdjQU14Um0zc283c2JOckRqRmM3Vld2LUdwdXlJakhyS1YzRHd3andCR0tLSDZqdFktVUpwNThHVGZWd3FMTFJZaHpTN200RGRYRl9GUHc0V0puRGEwcnExdVRUVDEwV240R2hpRUZzQXg3RU13a1FDeERFeFJWZw?oc=5",
       "pubDate": "Fri, 29 May 2026 16:34:52 GMT",
       "description": "'The Boys' season 5 episode 6 release date and launch time: When does it come out on Prime Video? &nbsp;&nbsp; MSN",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boys-vought-rising.jpg",
       "score": 4,
       "required": [
         "series",
@@ -88,7 +91,8 @@
         "disney"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T12:18:09.026Z"
+      "createdAt": "2026-05-30T12:18:09.026Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-e7a37cfb",
@@ -100,7 +104,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFhVS2JuRVQ4R1pBQWJOUndJZ2JwQngtZGsyQzUyZGxVUmw0Zm1OTDQ3TUphUE1Zc3czY0l4cXdFMXo2OXMySDQ1Y0ZlUlY4cWZLRVA5c1h0WXBMM3FiNlJ1Y2VKTm1remdmWlZaZ2U2NEZPTGpsZE9BV25Ja0lQdVdEemc5UzIwVTdXSVQzQTVYaVV0LXZkRV8zaXZFWVdfRUNhdktUd0xqUTJhNVJpMXBMRXNJTkJJeUV2VXloQ0o5SUVUUElia1ZUSEhPLUpjN3I1OG9XRTNQclVnTzJRMWJR0gHmAUFVX3lxTE1nOVo3bV9QWEc1eFRja2dNRjVPbmZNemJqTFQ0alE2TGIxc0RNQnlUQURHVnZjVDNaRWxmN1FfVlNXYWZEM0pzdmpvQlN5M092OWhjWGZUN18zWEpfb2JiLTBjZGkyN2w5eXM0eFRxcGVKX0NFX1d4NnZkN0pEZWhSaHo1anlVUGlPM1V4WFU4VWdSRk5TWnZrOVg3TVVORVg2TVk3N0thTlFIU0NuTm9SeXMyVm56YVhXTUdmN1o1VDVIajF4M05nSWdiN21CM09WZkk5UnRsbjFYdEVvVXB3TFQ1NUpn?oc=5",
       "pubDate": "Fri, 29 May 2026 18:03:51 GMT",
       "description": "From Season 4 release schedule: How many episodes are left in Prime Video’s series; check complete lineup &nbsp;&nbsp; news24online.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/from-serie.jpg",
       "score": 4,
       "required": [
         "series",
@@ -112,7 +116,8 @@
         "disney"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T12:18:09.026Z"
+      "createdAt": "2026-05-30T12:18:09.026Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-94b8559e",
@@ -124,14 +129,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZC1tN1pxY3UtNmdreW5hSkIxV19OV2E1b1pvN1o3Nkw5Q3RLeGk2eDB2RnpfQk1OcVFuYmpJaERiOEtuSVgtSjlldnc1T2VKS2ZWYnNHZHQwWkFObm44Y2F3YWd6MHdwSVE3aGIzYmJoTlZwUGlYUmVsRXQzWklpUVdybzllRjBWQVJYbVdrNkhvZmpZbUZOSzFkQlo5X2s4TFFodERlTDloeWRha2xDM3k0am5ZdG1yMERkV1RvS29YdTVFaVdrZ1VvN28tVURjbGVBcU41LXpjZmF4VGVXaGZjSTRTTjBybndRQnlBVkJqeExxSDlYd09jN1hLZ2hWZXFHa0JuaTZnVmtfaVV0blV3?oc=5",
       "pubDate": "Fri, 29 May 2026 09:11:56 GMT",
       "description": "Enola Holmes 3: Here’s when fans can watch new episodes on Netflix, release date, teaser twist and Sherlock’s shocking fate &nbsp;&nbsp; MSN",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boroughs-netflix.jpg",
       "score": 6,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.046Z"
+      "createdAt": "2026-05-30T08:43:10.046Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-865f302a",
@@ -143,14 +149,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkxzbldzdmlPSlpFTEd1S2xPLVNsU1JYSXhaaFowU2hVc0k5UjZuTXQzTVhHbU4zN0NkZ0RDUWdic085SGdGM1BjcGQxRzFOYTZuSFZHdDQ5RWFJcWE2ZVJSa1BJYXlvakc4U3lpUndPb3hqcjNRek83LTNPV0RhUVlsa2tJM2NFbm9BTUM0b3dnQU9jQ2pZaUpGLTVlV0Q2azF0VlY4U08?oc=5",
       "pubDate": "Fri, 29 May 2026 12:02:03 GMT",
       "description": "The Official Trailer of 'Physical 100' Italy, on Netflix From September 11 &nbsp;&nbsp; About Netflix",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/from-serie.jpg",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.044Z"
+      "createdAt": "2026-05-30T08:43:10.044Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-9cf53eb2",
@@ -162,14 +169,15 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZSlRYSnNVdjU4U0JORkVUeHVTbGltLVh2cVU2QkZEOHJ4emxpdXU2S3kySXFtY0I0c2RUZWctN285eTJOX2tRMk1Tc0RZSXU5LUN2bGtPMEtaY0xrTlUtbThqckN0TnVWMjJDa2RRUHI1emNC?oc=5",
       "pubDate": "Fri, 29 May 2026 17:50:16 GMT",
       "description": "The Ribbon Hero - Official Teaser Trailer &nbsp;&nbsp; IGN",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/banner-janela-pop.png",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.044Z"
+      "createdAt": "2026-05-30T08:43:10.044Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-e1efe1e7",
@@ -181,14 +189,15 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnNaVXZMdm0tUk4zZVp4UjBobXlTaUFtaXZ5QjRsUS1Yb1dFX2E0OXdiM2NDdUprZlpJNGlCNW04aVM0a19CekliVFhOZEtmM0p4R1M1ei1Zc1RidV9WaDUtVEJaX1JVNTZ5ZlcwcTByS18xY21VeF9jNzk2Yjd0VzhiWTUwVXZpY3JrTER5d21XVzBfbHoyV3JzYm4xNGcxdXB3bEE1a05JMGQx?oc=5",
       "pubDate": "Fri, 29 May 2026 19:04:47 GMT",
       "description": "The Ribbon Hero - Official Teaser Trailer (English Subtitles) &nbsp;&nbsp; Anime Superhero News",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/banner-janela-pop.png",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.045Z"
+      "createdAt": "2026-05-30T08:43:10.045Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-e44f221",
@@ -200,7 +209,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuUXRVRE5NTTJza2JHQ1VxYlRDTi02VjlfbWh2OG9jZ2NDR21rRDZabEpfMkVLWjBiUlFlbk91T3hGRDRhRGVhS0FDcE5hVjBIT255ZEtxYUxwd3c?oc=5",
       "pubDate": "Fri, 29 May 2026 20:58:14 GMT",
       "description": "The Boys Season 3 – Official Red Band Teaser Trailer | Prime Video Sir David Attenborough (oGXZGXU6PN) &nbsp;&nbsp; Mshale",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boys-vought-rising.jpg",
       "score": 4,
       "required": [
         "series",
@@ -212,7 +221,8 @@
         "disney"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.451Z"
+      "createdAt": "2026-05-30T08:43:10.451Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-49f6931e",
@@ -224,7 +234,7 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZk5JU1Ewd1NfeTNVWXVBVEJ3R1RkcVFzU25WdE9pSjJBdXduZThOODhRMzI4bTNhU3BaWGJfc05MZ25CX0owNkJZYzNKVEFPVFY2eHNTSmJFZkMtdXEweGdrMmh4Nnh4NXhIZDVkdE4tem1qYWdKTS1UNXVQMEJsUHo0YWhGM05PMURib25TclZxVGFmZG5qaUZJNWV0a2RMTU5WUXY4aDMzRVdfaU1QakMwR2lfVG42bUkyRzZBTG14MEpOa2puQ1dpdTQ0Z9IB3gFBVV95cUxNRHNibm1qeGx1QnE2Y2I1TGVZdXRmSURJNlRsRnFBWjdoLXUweXp2bmd3RGlvaTgxb21xUDFzWkQ4MDF5OGlXOXplNUdfbUtOZl94d1dvMmZoTnVUdm1IcDEyMnVxLV9HU29WSENTRW9uaXlkcmtFSDNudFlaaTZlVHFLcDRYZ1ZITk9oRTMxdnJYNFBRaVdBNG9SWUZPNTRLdlV4QUNkS3VfeHBBMURwWV96Wm0tWFhrOFVOZzlJREs0eGFkTDAyRjhQdWRPUkRabFBJVExMQlM3LUdIR0E?oc=5",
       "pubDate": "Fri, 29 May 2026 03:45:34 GMT",
       "description": "Off Campus Season 2 confirmed: Release timeline, plot details and cast changes explained &nbsp;&nbsp; Gulf News",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/banner-janela-pop.png",
       "score": 6,
       "required": [
         "series",
@@ -236,7 +246,8 @@
         "disney"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T23:52:23.739Z"
+      "createdAt": "2026-05-29T23:52:23.739Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-7153b245",
@@ -248,14 +259,15 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuUXRVRE5NTTJza2JHQ1VxYlRDTi02VjlfbWh2OG9jZ2NDR21rRDZabEpfMkVLWjBiUlFlbk91T3hGRDRhRGVhS0FDcE5hVjBIT255ZEtxYUxwd3c?oc=5",
       "pubDate": "Fri, 29 May 2026 20:58:14 GMT",
       "description": "The Boys Season 3 – Official Red Band Teaser Trailer | Prime Video Sir David Attenborough (oGXZGXU6PN) &nbsp;&nbsp; Mshale",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boys-vought-rising.jpg",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T23:52:23.292Z"
+      "createdAt": "2026-05-29T23:52:23.292Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-d2819e6d",
@@ -267,14 +279,15 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTQtRGVNNHJKWFlwNkJSWTVrQmM0TkRvcXgyWG5oWU9nM1N3VGhnUFJBdUgxbzVQOUZGR09QQVdSUEU5el9yNHZMVkRLejJUakhNTmhRaTl0M1A3UW0wLVg2MlVUeEZEZV9BQWVLN29RUXZIQlF6bmJWYThpaFVpTzhjVG9TWThqcUE?oc=5",
       "pubDate": "Fri, 29 May 2026 22:29:44 GMT",
       "description": "A Different World Netflix Sequel TV Show Sets Unique Release Date, Watch Teaser Video &nbsp;&nbsp; AOL.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boroughs-netflix.jpg",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T23:52:23.292Z"
+      "createdAt": "2026-05-29T23:52:23.292Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-c9a2f142",
@@ -286,14 +299,15 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekhsZzE2VDRTYWlwakZ3bTZXMXJXUlVYNy1XajYwNUxtR3pqM3NaMGRYd1FPXzZLc2R3dEFfM2R6SlAzcGQyalg1U2FyeE0tNEkwQTk2SFMyQXpsR1dHa09mZlVTTTRENjNoNS1xM1oyTVdVU0wyeHJxVzg4UHZYbHRzUFV5MVRRVTRkQmZ2X0JocnBTRU0wU29Oaks0M21LTU9RekR4Zm1waFFXU01obHFLazNUdTdrZmw4ZHJRLVFUSTdhMWRsM0xWZVU?oc=5",
       "pubDate": "Fri, 29 May 2026 13:27:23 GMT",
       "description": "Vought rising - official teaser trailer &nbsp;&nbsp; MSN",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boys-vought-rising.jpg",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T23:52:23.292Z"
+      "createdAt": "2026-05-29T23:52:23.292Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-ba5d3275",
@@ -305,14 +319,15 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEE5bXI0c0VtRldwb1I5ckkyUWR6SDNsZEpsZlVUbGRETDVPcVhHY3hoeF9Xd1NrU0VWYlRRRFZtRV92eGw2YUJZSUhuY2tRdWhoTHFHSW54U21KVVYyUEh2YkpaX0tLMVVQUDVLUXB1OFNKeGdYTjFFVnpSQ0p6TEZCVEdSa2FpUGxZczZGYnBXZmZycjZiUmJlTnowQk9heXVDQ0hDTEdSZFpISk4yNldxaDM3VHNpSHQwZmFIaE5oZld4Q3lYaVdKVdIB0AFBVV95cUxQcGFqZmJaSnNRTFVBNm5BTktITC1ZRm1QTFVkVTlQV0ZvY04yenRQSGotcXBOY0xBMDJGRXVJei1hVU4xTHpUd0lPWWlaaU5lanV0SG5BdGlFMGt4cm54STF3VTZHeHJsTmJ2OGNtbk1IdkNYb1BqZXlUd2lMOTNjbF9MREh3T19Td0xqekp5MkpBREwwTHktZDFna1B3MDdicm1ZMDd0dFdtYWhxN0Q2T29Jc0FZWGFBb1BDX3U0NlYwb1ZwVWlyNUVseGJ1SU10?oc=5",
       "pubDate": "Fri, 29 May 2026 17:06:53 GMT",
       "description": "A Different World Netflix Sequel TV Show Sets Unique Release Date, Watch Teaser Video &nbsp;&nbsp; ComingSoon.net",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boroughs-netflix.jpg",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T23:52:23.293Z"
+      "createdAt": "2026-05-29T23:52:23.293Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-431b0705",
@@ -324,14 +339,15 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QbEl4Tnp6TG01RHQtWHJoQjVMWVJJdjlYcDlyenE5RmJ5MTZudW5Uc1hER2kzN1FzdlQ4YkpWRWJqMlQyVEl3RFBtdFFsZHlZNGtaUndIOA?oc=5",
       "pubDate": "Fri, 29 May 2026 14:46:08 GMT",
       "description": "Off Campus: Cast, Crew, Movie Review, Release Date, Teaser, Trailer &nbsp;&nbsp; filmyfocus.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/banner-janela-pop.png",
       "score": 6,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T19:54:11.067Z"
+      "createdAt": "2026-05-29T19:54:11.067Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-8d5bc242",
@@ -343,7 +359,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVBJSTZGbTcwdTV1NmlOUGlOXzJjYnM0eUo4VnNyMlkycExnWGdrTHljVktWWERGVFFBXzE2X0txdlB0LWVYSWVqVEEwNjg0dHlWc3I1QUw4MVZTcGFZNTNTelExYXk3N2VnN2hYbnlLQmZDUVI0c2dyUDlZbkdIZzk1QmMxRnhqb2xoZDR3aG9qTGtmTVE?oc=5",
       "pubDate": "Fri, 29 May 2026 16:00:51 GMT",
       "description": "Avengers: Doomsday trailer release date seemingly confirmed &nbsp;&nbsp; Bam Smack Pow",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/banner-janela-pop.png",
       "score": 6,
       "required": [
         "marvel",
@@ -354,7 +370,8 @@
         "spider-man"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T19:54:12.799Z"
+      "createdAt": "2026-05-29T19:54:12.799Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-bbd18839",
@@ -366,13 +383,14 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WY3lkSUdHLXJUUUV4RmFNRFBUNnVXZlpCZ1NvTGdSNjl2a0hKS1hsUnJFUFNjaC1ZaWtPM2FOTXl2RlBGajZ3N0xDSldVQWF1Rkxrenc3dGxDSndNT0NxczI5d1BTV2ozSThkQ3RySnd6bk81OU1qVm8tekY2YVU?oc=5",
       "pubDate": "Thu, 28 May 2026 20:12:09 GMT",
       "description": "From Season 4 Finally Ending Series-Long Complaint Addressed By Harold Perrineau &nbsp;&nbsp; AOL.com",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/from-serie.jpg",
       "score": 4,
       "required": [
         "from"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T19:54:09.856Z"
+      "createdAt": "2026-05-29T19:54:09.856Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-b2d4e761",
@@ -384,14 +402,15 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXhmMXB6QlZzbjdTNHlhSG15LWp1SUlHWkpQUnQzVUxIVWhIVzlXaDhsbFVGdUd1SjZkLVE3dTVid2F3MkRXaEpYaDZBNGk4QTVqaXpWQUtmQV80VnZ6QzJydlJteHFoalRINVhjcGQ2N2IxSWtnVnRVbVhfYjA2eEEwZHVEZDZoT0dFdTVtUWc5bThQc1pNRWdaTjM?oc=5",
       "pubDate": "Fri, 29 May 2026 17:08:00 GMT",
       "description": "A Different World Netflix Sequel TV Show Sets Unique Release Date, Watch Teaser Video &nbsp;&nbsp; Yahoo",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/the-boroughs-netflix.jpg",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T19:54:11.065Z"
+      "createdAt": "2026-05-29T19:54:11.065Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-e52d9e75",
@@ -403,14 +422,15 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZSlRYSnNVdjU4U0JORkVUeHVTbGltLVh2cVU2QkZEOHJ4emxpdXU2S3kySXFtY0I0c2RUZWctN285eTJOX2tRMk1Tc0RZSXU5LUN2bGtPMEtaY0xrTlUtbThqckN0TnVWMjJDa2RRUHI1emNC?oc=5",
       "pubDate": "Fri, 29 May 2026 17:50:16 GMT",
       "description": "The Ribbon Hero - Official Teaser Trailer &nbsp;&nbsp; IGN",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "assets/banner-janela-pop.png",
       "score": 4,
       "required": [
         "trailer",
         "teaser"
       ],
       "status": "pendente",
-      "createdAt": "2026-05-29T19:54:11.066Z"
+      "createdAt": "2026-05-29T19:54:11.066Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-d3fe9464",
@@ -425,7 +445,8 @@
       "image": "assets/from-serie.jpg",
       "score": 4,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:21:25.445Z"
+      "createdAt": "2026-05-29T19:21:25.445Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-ccc87e88",
@@ -440,7 +461,8 @@
       "image": "https://preview.redd.it/jrgk93trk44h1.png?width=640&crop=smart&auto=webp&s=d6528910891f5ada5252ff6fc95ed9a2571fa931",
       "score": 4,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:21:26.092Z"
+      "createdAt": "2026-05-29T19:21:26.092Z",
+      "usedDefaultImage": false
     },
     {
       "id": "jp-d18cb7e1",
@@ -455,7 +477,8 @@
       "image": "assets/from-serie.jpg",
       "score": 4,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:21:26.092Z"
+      "createdAt": "2026-05-29T19:21:26.092Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-861b12e5",
@@ -470,7 +493,8 @@
       "image": "assets/banner-janela-pop.png",
       "score": 4,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:21:26.456Z"
+      "createdAt": "2026-05-29T19:21:26.456Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-ae09c917",
@@ -485,7 +509,8 @@
       "image": "assets/banner-janela-pop.png",
       "score": 4,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:21:26.456Z"
+      "createdAt": "2026-05-29T19:21:26.456Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-72b1e7e9",
@@ -500,7 +525,8 @@
       "image": "assets/banner-janela-pop.png",
       "score": 6,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:16:39.536Z"
+      "createdAt": "2026-05-29T19:16:39.536Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-451aea16",
@@ -515,7 +541,8 @@
       "image": "assets/banner-janela-pop.png",
       "score": 6,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:16:39.536Z"
+      "createdAt": "2026-05-29T19:16:39.536Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-c45ac27c",
@@ -530,7 +557,8 @@
       "image": "assets/the-boroughs-netflix.jpg",
       "score": 6,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:16:39.906Z"
+      "createdAt": "2026-05-29T19:16:39.906Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-c6996d76",
@@ -545,7 +573,8 @@
       "image": "assets/from-serie.jpg",
       "score": 4,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:16:38.417Z"
+      "createdAt": "2026-05-29T19:16:38.417Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-fc903bc1",
@@ -560,7 +589,8 @@
       "image": "assets/from-serie.jpg",
       "score": 4,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:16:38.617Z"
+      "createdAt": "2026-05-29T19:16:38.617Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-moana-live-action-trailer",
@@ -577,7 +607,7 @@
       "status": "aprovado",
       "createdAt": "2026-05-29T19:05:00.000Z",
       "imageUsed": "assets/moana-live-action.jpg",
-      "usedDefaultImage": false,
+      "usedDefaultImage": true,
       "post": "moana-live-action-ganha-trailer-e-mostra-nova-versao-da-aventura-da-disney.md",
       "approvedAt": "2026-05-29T19:12:26.900Z"
     },
@@ -594,7 +624,8 @@
       "image": "assets/the-boys-vought-rising.jpg",
       "score": 10,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:05:00.000Z"
+      "createdAt": "2026-05-29T19:05:00.000Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-house-of-the-dragon-s3-trailer",
@@ -609,7 +640,8 @@
       "image": "assets/house-of-the-dragon-s3.jpg",
       "score": 10,
       "status": "pendente",
-      "createdAt": "2026-05-29T19:05:00.000Z"
+      "createdAt": "2026-05-29T19:05:00.000Z",
+      "usedDefaultImage": true
     },
     {
       "id": "jp-the-boroughs-netflix",
@@ -626,7 +658,7 @@
       "status": "aprovado",
       "createdAt": "2026-05-29T19:05:00.000Z",
       "imageUsed": "assets/the-boroughs-netflix.jpg",
-      "usedDefaultImage": false,
+      "usedDefaultImage": true,
       "post": "criadores-de-stranger-things-revelam-trailer-de-nova-serie-sci-fi-da-netflix.md",
       "approvedAt": "2026-05-29T19:12:25.603Z"
     },
@@ -645,7 +677,9 @@
       "status": "aprovado",
       "createdAt": "2026-05-29T18:24:23.341Z",
       "post": "from-nova-imagem-de-boyd-stevens-no-episodio-6-aumenta-a-expectativa-dos-fas.md",
-      "approvedAt": "2026-05-29T18:25:30.741Z"
+      "approvedAt": "2026-05-29T18:25:30.741Z",
+      "imageUsed": "https://preview.redd.it/vhpcye4ex34h1.jpeg?width=640&crop=smart&auto=webp&s=e1491fbde49f071d60fe37599d57c3619be2edf4",
+      "usedDefaultImage": false
     },
     {
       "id": "jp-de2ac828",
@@ -657,12 +691,14 @@
       "link": "https://www.reddit.com/r/FromSeries/comments/1tr4h5k/this_is_the_only_ending_we_need_for_from/",
       "pubDate": "2026-05-29T14:58:42+00:00",
       "description": "",
-      "image": "",
+      "image": "assets/from-serie.jpg",
       "score": 4,
       "status": "aprovado",
       "createdAt": "2026-05-29T18:24:23.341Z",
       "post": "from-fas-debatem-qual-seria-o-final-ideal-para-a-serie.md",
-      "approvedAt": "2026-05-29T18:41:56.705Z"
+      "approvedAt": "2026-05-29T18:41:56.705Z",
+      "imageUsed": "assets/from-serie.jpg",
+      "usedDefaultImage": true
     }
   ]
 }

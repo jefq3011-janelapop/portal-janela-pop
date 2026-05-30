@@ -7,6 +7,14 @@ const POSTS_DIR = path.join(ROOT, "posts");
 const SITE_SCRIPT = path.join(ROOT, "scripts", "site.js");
 const ACTIONS_FILE = path.join(ROOT, "data", "telegram-actions.json");
 const DEFAULT_IMAGE = "assets/from-serie.jpg";
+const FALLBACK_IMAGES = {
+  from: "assets/from-serie.jpg",
+  disney: "assets/moana-live-action.jpg",
+  theBoys: "assets/the-boys-vought-rising.jpg",
+  houseDragon: "assets/house-of-the-dragon-s3.jpg",
+  netflix: "assets/the-boroughs-netflix.jpg",
+  culture: "assets/banner-janela-pop.png",
+};
 
 function loadEnvFiles() {
   const files = [
@@ -83,6 +91,37 @@ function getEditorialProfile(item) {
   if (/trailer|teaser/.test(text)) return "trailer";
   if (/movie|film|filme/.test(text)) return "movie";
   return "culture";
+}
+
+function imageForItem(item) {
+  const text = `${item.titlePt || ""} ${item.title || ""} ${item.series || ""} ${item.category || ""}`.toLowerCase();
+  if (/from|mgm\+/.test(text)) return FALLBACK_IMAGES.from;
+  if (/moana|disney/.test(text)) return FALLBACK_IMAGES.disney;
+  if (/the boys|vought|soldier boy|stormfront/.test(text)) return FALLBACK_IMAGES.theBoys;
+  if (/house of the dragon|targaryen|westeros|rhaenyra/.test(text)) return FALLBACK_IMAGES.houseDragon;
+  if (/stranger things|boroughs|duffer|netflix/.test(text)) return FALLBACK_IMAGES.netflix;
+  if (/horror|terror|shudder|scary/.test(text)) return FALLBACK_IMAGES.from;
+  return FALLBACK_IMAGES.culture;
+}
+
+function isWeakRemoteImage(image) {
+  return /^https:\/\/lh3\.googleusercontent\.com\/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=/i.test(
+    image || ""
+  );
+}
+
+function resolveImage(item) {
+  const image = item.imageUsed || item.image || "";
+  if (!image || isWeakRemoteImage(image)) return imageForItem(item);
+  return image;
+}
+
+function normalizeCandidateImage(item) {
+  const image = resolveImage(item);
+  item.image = image;
+  if (item.status === "aprovado") item.imageUsed = image;
+  item.usedDefaultImage = !/^https?:\/\//i.test(image);
+  return item;
 }
 
 function seoTitle(item) {
@@ -162,7 +201,7 @@ function buildArticleBody(item) {
 function buildPost(item) {
   const title = seoTitle(item);
   const slug = slugify(title);
-  const image = item.image || DEFAULT_IMAGE;
+  const image = resolveImage(item);
   const excerpt = buildExcerpt(item);
   const body = buildArticleBody(item);
 
@@ -195,8 +234,9 @@ function approveCandidate(id) {
   addPostToSite(post.fileName);
 
   item.status = "aprovado";
-  item.imageUsed = item.image || DEFAULT_IMAGE;
-  item.usedDefaultImage = !item.image;
+  item.image = resolveImage(item);
+  item.imageUsed = item.image;
+  item.usedDefaultImage = !/^https?:\/\//i.test(item.image);
   item.post = post.fileName;
   item.approvedAt = new Date().toISOString();
   writeCandidates(data);
@@ -222,4 +262,7 @@ module.exports = {
   writeActionsState,
   approveCandidate,
   ignoreCandidate,
+  imageForItem,
+  resolveImage,
+  normalizeCandidateImage,
 };

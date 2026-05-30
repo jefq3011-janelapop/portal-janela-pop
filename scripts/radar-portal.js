@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { loadEnvFiles } = require("./lib/editorial");
+const { loadEnvFiles, normalizeCandidateImage, imageForItem: fallbackImageForItem } = require("./lib/editorial");
 
 const ROOT = path.join(__dirname, "..");
 const CANDIDATES_FILE = path.join(ROOT, "data", "candidatos.json");
@@ -159,14 +159,10 @@ function getImageFromXml(item) {
   return image ? decodeHtml(image[1]) : "";
 }
 
-function imageForItem(item, source) {
+function getFeedImage(item, source) {
   const image = getImageFromXml(item);
   if (image) return image;
-  if (source.series === "FROM") return "assets/from-serie.jpg";
-  if (source.category === "Filmes") return "assets/moana-live-action.jpg";
-  if (source.category === "Series") return "assets/the-boroughs-netflix.jpg";
-  if (source.category === "Terror") return "assets/from-serie.jpg";
-  return "assets/banner-janela-pop.png";
+  return fallbackImageForItem({ series: source.series, category: source.category });
 }
 
 function isRecent(item) {
@@ -211,7 +207,7 @@ function parseFeed(xml, source) {
       link,
       pubDate,
       description,
-      image: imageForItem(item, source),
+      image: getFeedImage(item, source),
       score: scoreItem(`${title} ${description}`),
       required: source.required || [],
       status: "pendente",
@@ -324,6 +320,7 @@ async function sendTelegramCandidate(item) {
   const chatId = process.env.TELEGRAM_CHAT_ID;
   if (!token || !chatId) return;
 
+  normalizeCandidateImage(item);
   const text = [
     "NOVA PAUTA PARA O PORTAL JANELA POP",
     `Codigo: ${item.id}`,
@@ -403,6 +400,7 @@ async function main() {
 
   for (const item of newItems) {
     await enrichImage(item);
+    normalizeCandidateImage(item);
   }
 
   current.items = [...newItems, ...current.items].slice(0, 60);

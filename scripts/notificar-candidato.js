@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { ROOT, loadEnvFiles, readCandidates } = require("./lib/editorial");
+const { ROOT, loadEnvFiles, readCandidates, normalizeCandidateImage } = require("./lib/editorial");
 
 const id = process.argv[2];
 
@@ -10,7 +10,7 @@ function buildText(item) {
     `Codigo: ${item.id}`,
     `Tema: ${item.titlePt || item.title}`,
     `Categoria: ${item.category}`,
-    `Imagem: ${item.image ? "sim" : "arte padrao Janela Pop"}`,
+    "Imagem: sim",
     "",
     "Toque em uma opcao:",
     "",
@@ -32,6 +32,7 @@ async function sendCandidate(item) {
     ],
   };
 
+  normalizeCandidateImage(item);
   const text = buildText(item);
   const endpoint = item.image ? "sendPhoto" : "sendMessage";
   let response;
