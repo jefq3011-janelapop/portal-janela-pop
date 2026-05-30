@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "id": "jp-dbf68288",
+      "title": "The Ultimate Jade & Jasper Theory: How the Intro Song and a Single Letter Predict the Ending (S1-S3 Spoilers Only!)",
+      "titlePt": "The Ultimate Jade & Jasper teoria: How the Intro Song and a Single Letter Predict the final (S1-S3 Spoilers Only!)",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1ts3lua/the_ultimate_jade_jasper_theory_how_the_intro/",
+      "pubDate": "2026-05-30T15:54:07+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 5,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-05-30T16:15:07.253Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-b080b40a",
+      "title": "A Different World: Netflix Releases Teaser and Premiere Date for Comedy Series Sequel - TV Series Finale",
+      "titlePt": "A Different World: Netflix Releases teaser and Premiere Date for Comedy Series Sequel",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODA2MEc3ODk4R3pJNmYwOV93S1U5bUNHX3NZTE41LWd0YWpNNE9aZEhBY1RZSThMZTBlRXlaM040R29UQlBLN2VpcjhLWEhDb0hRekF5Y2w2ZTAtNy1aTjFBdTh3WlEzZDB6QlQ2c3ZJcm1iN3phRlQ4YlRKYXlqV3RxTDI0YTA5VjEyS0Y4N2hTSGFtUFBaRnUtWm5nMnVreVNPY0hrQzNUSDljaWY5QjI3UzVVVi1fQ2J2ONIBwgFBVV95cUxPVXRtdjBpbnNKdk5mdjk3WXJ0VGxVcUhvbERzSDdVdm84aTFoWi1zRHd0aUNGODVqbThYTXFRYmxwM1FDZGZjSWpZbmoxSk9iYUd0RHBxRVMyNl9fSHM3WlYwTUxiU0xSZmJNM3hpeVliblBZR1pHdGVwZE84MDhzd0VESHN5QkFpdDVXaGhGZjN5eXhZd0tvb2FmTUU5MDZoXzVZNThuMC1Ld2hUeFFIaXBfZUlTMktyQml1eEVvZzlMZw?oc=5",
+      "pubDate": "Sat, 30 May 2026 14:44:31 GMT",
+      "description": "A Different World: Netflix Releases Teaser and Premiere Date for Comedy Series Sequel &nbsp;&nbsp; TV Series Finale",
+      "image": "assets/the-boroughs-netflix.jpg",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-05-30T16:15:07.723Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-9893ec78",
+      "title": "A Different World offers a teaser and a release date for the Netflix reboot of the beloved comedy - Show Snob",
+      "titlePt": "A Different World offers a teaser and a data de estreia for the Netflix reboot of the beloved comedy",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVKdEh2SzNOc2pvWUlDZzV2ZVRRaS1TYVZXeTZhdk9tamxrbXRjTlNBRDhKbmpZbkhLdldYOWFDSlRfZl9BSUdkbGV6Qld6SmJFMFRnM2ZhMTVWMWRtRmNaRzRmZ2FLb0hhd1VManQycGk0LS1YMm9OcFJ4cWRDNkpoT2w4MVBNVVpCalhJcEtMREdJYnFwc29lRQ?oc=5",
+      "pubDate": "Sat, 30 May 2026 15:00:02 GMT",
+      "description": "A Different World offers a teaser and a release date for the Netflix reboot of the beloved comedy &nbsp;&nbsp; Show Snob",
+      "image": "assets/the-boroughs-netflix.jpg",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-05-30T16:15:07.723Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-718c0537",
+      "title": "Netflix drops teaser and sentimental release date for A Different World - primetimer.com",
+      "titlePt": "Netflix drops teaser and sentimental data de estreia for A Different World",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXVrSHd6dGNPdXlNNGc5NVRaRmEwZnVVYU9SS1c0NGVBWlNET2J0TTJtbG1rSXFOSm5iMnZtWl9jcWZIaldPN1o5ZE1LeDhJbndNQV9BN3BXYXFpTUZla1FlQnpHYjNVYzZ1V013bmVmMGhuUkc3Uzk5bE50WTJQUjgwUzVuSjhyaVBiMldmdTk4LVJRR0l0bWxTblNEa2wtTmZiV3E5SG9RX2s?oc=5",
+      "pubDate": "Sat, 30 May 2026 06:49:00 GMT",
+      "description": "Netflix drops teaser and sentimental release date for A Different World &nbsp;&nbsp; primetimer.com",
+      "image": "assets/the-boroughs-netflix.jpg",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-05-30T16:15:07.724Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-694161bb",
+      "title": "House of the Dragon: Season Three Trailer Unveiled by HBO Ahead of June Premiere - TV Series Finale",
+      "titlePt": "House of the Dragon: temporada Three trailer Unveiled by HBO Ahead of June Premiere",
+      "series": "Series",
+      "category": "Series",
+      "source": "Google News - Series",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTURiVWkzMDBOYnVtc1U0RmJjV1kyV244ZFRmcmxra1BVcHQtTnFYSUoyLTJIVG82Mk1jMFFQdlB4RDVPUUhsb0tMVjBVVGo3Q2lESUlleVlfQ2N0WkQ3NFJKSEpiVHltV09BQnVnVU9OOWg0SzFQVFlpX2I3VTd5SEZTb1Q0ZzE5M2FEZlBseFoyWV9VRUZyeDA2U1E1UUlCUm5ybkM5elVzZy10VXJNbTgyeFZVQdIBuwFBVV95cUxPYnYyZEJZUUdGRktCYjlQRHVuRzJ5akdhdkczT1RobkNaRUl2dUZPS2lfZVp5a0pQUE9IRmMzY1F5SWptYzNPdm9uVHExeEdYR1VkX25UN21sUjRkcGtVRkpFYVg5ZS04SlE4a29ucENoT0NjXzdUVVRyZ19raGpTT25RTWxDNVIwSkhYeFNkeGs0VDFNTnFHVnpIcXF5a2tYOXdHQk1iWGp1TEthNVRnTHhRdkxCZWV0N0dB?oc=5",
+      "pubDate": "Sat, 30 May 2026 14:25:55 GMT",
+      "description": "House of the Dragon: Season Three Trailer Unveiled by HBO Ahead of June Premiere &nbsp;&nbsp; TV Series Finale",
+      "image": "assets/house-of-the-dragon-s3.jpg",
+      "score": 4,
+      "required": [
+        "series",
+        "season",
+        "episode",
+        "netflix",
+        "hbo",
+        "prime",
+        "disney"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-05-30T16:15:08.127Z",
+      "usedDefaultImage": true
+    },
+    {
       "id": "jp-ef16bcad",
       "title": "Netflix Drops Teaser and Release Date for A Different World Spinoff - The Quintessential Gentleman",
       "titlePt": "Netflix Drops teaser and data de estreia for A Different World Spinoff",
