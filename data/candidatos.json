@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "id": "jp-33bf4459",
+      "title": "From Season 4: Episode 6: The Heart Is a Lonely Hunter (recap and review)",
+      "titlePt": "From temporada 4: episodio 6: The Heart Is a Lonely Hunter (recap and review)",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1tuntxw/from_season_4_episode_6_the_heart_is_a_lonely/",
+      "pubDate": "2026-06-02T11:15:56+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-02T12:59:56.044Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-9adfe018",
+      "title": "Avengers: Doomsday Official Teaser Trailer | First Look Sophie Cunningham (AQTLpnGPwb) - Mshale",
+      "titlePt": "Avengers: Doomsday oficial teaser trailer | First Look Sophie Cunningham (AQTLpnGPwb)",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1LVcweHhBRjgwQ2E1VW1uZER2WUhZa2tRUUFMb0NGYV9VSW54bzJ6YWNfRWhyS09aOVFOM0JEQXctWmhUVmRvU1JkbExMUDV6OWZOMmQtcjhkMGM?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 00:16:49 GMT",
+      "description": "Avengers: Doomsday Official Teaser Trailer | First Look Sophie Cunningham (AQTLpnGPwb) &nbsp;&nbsp; Mshale",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-02T12:59:56.473Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-a06498ea",
+      "title": "The next Avengers: Doomsday teaser trailer reportedly coming sooner than expected - Bam Smack Pow",
+      "titlePt": "The next Avengers: Doomsday teaser trailer reportedly coming sooner than expected",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1NVS2lzU2s3UEdUYTBoTWZweTlxZ1NWTXlLVVAyUTdDYmxZeS1TcnlQWjRMRkd5VG1OSGQ3RE1IQWVVN2prM0pYZDVVVy1iUGozR0pfUHozdkliLTFvUkZnUlhqTmNLbm5KTF9NeEtHZmY4T0pSOWE3ZWw5V0stdTdVQkgySkdMcHp6NA?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 23:15:20 GMT",
+      "description": "The next Avengers: Doomsday teaser trailer reportedly coming sooner than expected &nbsp;&nbsp; Bam Smack Pow",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-02T12:59:56.474Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-8f33d569",
+      "title": "In brief: 'The Five Star Weekend' gets teaser trailer and more - AOL.com",
+      "titlePt": "In brief: 'The Five Star Weekend' gets teaser trailer and more",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYm9wVGNlXzB4YjFEckwtUmd5SWdOajJjcFNhdXF4dGk4YWdWd1Jmc0gzdjR5SF9SWEQxZXJfN3U5ZW92WFlnVGwyNFR1b2xBVTdzVXMwU3lSVU9GQ3hQOS13U0IxTkYxTzBmdVk2VTJXM3VzeFhwSUM4bGM?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 19:20:51 GMT",
+      "description": "In brief: 'The Five Star Weekend' gets teaser trailer and more &nbsp;&nbsp; AOL.com",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-02T12:59:56.474Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-ad7195e1",
+      "title": "From season 4 release schedule: When is episode 7 out on MGM+? - Radio Times",
+      "titlePt": "From temporada 4 release schedule: quando is episodio 7 out on MGM+?",
+      "series": "Series",
+      "category": "Series",
+      "source": "Google News - Series",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uYUZTVFEySEs3X0dJN3BkQkR2NmRLdHczNENBcF9KNUZ4SVEzR2dWNVZKdGhWU28xdnlyNFNNZHA1Nk1Nak83TVFJZ25hTF9tam5HSU9VdXVWZ21vcHdnbDNld1BtYkxqRnlyVHo0N1haTW5OVzV3?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 09:20:07 GMT",
+      "description": "From season 4 release schedule: When is episode 7 out on MGM+? &nbsp;&nbsp; Radio Times",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "series",
+        "season",
+        "episode",
+        "netflix",
+        "hbo",
+        "prime",
+        "disney"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-02T12:59:56.892Z",
+      "usedDefaultImage": true
+    },
+    {
       "id": "jp-ff1f3f32",
       "title": "Lanterns trailer absence, explained: HBO teaser returns online after music license issues - AOL.com",
       "titlePt": "Lanterns trailer absence, explicado: HBO teaser retorna online after music license issues",
@@ -1157,111 +1261,6 @@
       ],
       "status": "pendente",
       "createdAt": "2026-05-30T12:18:09.026Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-94b8559e",
-      "title": "Enola Holmes 3: Heres when fans can watch new episodes on Netflix, release date, teaser twist and Sherlocks shocking fate",
-      "titlePt": "Enola Holmes 3: veja quando fas can assistir novo episodios on Netflix, data de estreia, teaser twist and Sherlocks shocking fate",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZC1tN1pxY3UtNmdreW5hSkIxV19OV2E1b1pvN1o3Nkw5Q3RLeGk2eDB2RnpfQk1OcVFuYmpJaERiOEtuSVgtSjlldnc1T2VKS2ZWYnNHZHQwWkFObm44Y2F3YWd6MHdwSVE3aGIzYmJoTlZwUGlYUmVsRXQzWklpUVdybzllRjBWQVJYbVdrNkhvZmpZbUZOSzFkQlo5X2s4TFFodERlTDloeWRha2xDM3k0am5ZdG1yMERkV1RvS29YdTVFaVdrZ1VvN28tVURjbGVBcU41LXpjZmF4VGVXaGZjSTRTTjBybndRQnlBVkJqeExxSDlYd09jN1hLZ2hWZXFHa0JuaTZnVmtfaVV0blV3?oc=5",
-      "pubDate": "Fri, 29 May 2026 09:11:56 GMT",
-      "description": "Enola Holmes 3: Here’s when fans can watch new episodes on Netflix, release date, teaser twist and Sherlock’s shocking fate &nbsp;&nbsp; MSN",
-      "image": "assets/the-boroughs-netflix.jpg",
-      "score": 6,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.046Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-865f302a",
-      "title": "The Official Trailer of 'Physical 100' Italy, on Netflix From September 11 - About Netflix",
-      "titlePt": "The oficial trailer of 'Physical 100' Italy, on Netflix From September 11",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkxzbldzdmlPSlpFTEd1S2xPLVNsU1JYSXhaaFowU2hVc0k5UjZuTXQzTVhHbU4zN0NkZ0RDUWdic085SGdGM1BjcGQxRzFOYTZuSFZHdDQ5RWFJcWE2ZVJSa1BJYXlvakc4U3lpUndPb3hqcjNRek83LTNPV0RhUVlsa2tJM2NFbm9BTUM0b3dnQU9jQ2pZaUpGLTVlV0Q2azF0VlY4U08?oc=5",
-      "pubDate": "Fri, 29 May 2026 12:02:03 GMT",
-      "description": "The Official Trailer of 'Physical 100' Italy, on Netflix From September 11 &nbsp;&nbsp; About Netflix",
-      "image": "assets/from-serie.jpg",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.044Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-9cf53eb2",
-      "title": "The Ribbon Hero - Official Teaser Trailer",
-      "titlePt": "The Ribbon Hero",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZSlRYSnNVdjU4U0JORkVUeHVTbGltLVh2cVU2QkZEOHJ4emxpdXU2S3kySXFtY0I0c2RUZWctN285eTJOX2tRMk1Tc0RZSXU5LUN2bGtPMEtaY0xrTlUtbThqckN0TnVWMjJDa2RRUHI1emNC?oc=5",
-      "pubDate": "Fri, 29 May 2026 17:50:16 GMT",
-      "description": "The Ribbon Hero - Official Teaser Trailer &nbsp;&nbsp; IGN",
-      "image": "assets/banner-janela-pop.png",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.044Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-e1efe1e7",
-      "title": "The Ribbon Hero - Official Teaser Trailer (English Subtitles) - Anime Superhero News",
-      "titlePt": "The Ribbon Hero",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnNaVXZMdm0tUk4zZVp4UjBobXlTaUFtaXZ5QjRsUS1Yb1dFX2E0OXdiM2NDdUprZlpJNGlCNW04aVM0a19CekliVFhOZEtmM0p4R1M1ei1Zc1RidV9WaDUtVEJaX1JVNTZ5ZlcwcTByS18xY21VeF9jNzk2Yjd0VzhiWTUwVXZpY3JrTER5d21XVzBfbHoyV3JzYm4xNGcxdXB3bEE1a05JMGQx?oc=5",
-      "pubDate": "Fri, 29 May 2026 19:04:47 GMT",
-      "description": "The Ribbon Hero - Official Teaser Trailer (English Subtitles) &nbsp;&nbsp; Anime Superhero News",
-      "image": "assets/banner-janela-pop.png",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.045Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-e44f221",
-      "title": "The Boys Season 3 Official Red Band Teaser Trailer | Prime Video Sir David Attenborough (oGXZGXU6PN) - Mshale",
-      "titlePt": "The Boys temporada 3 oficial Red Band teaser trailer | Prime Video Sir David Attenborough (oGXZGXU6PN)",
-      "series": "Series",
-      "category": "Series",
-      "source": "Google News - Series",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuUXRVRE5NTTJza2JHQ1VxYlRDTi02VjlfbWh2OG9jZ2NDR21rRDZabEpfMkVLWjBiUlFlbk91T3hGRDRhRGVhS0FDcE5hVjBIT255ZEtxYUxwd3c?oc=5",
-      "pubDate": "Fri, 29 May 2026 20:58:14 GMT",
-      "description": "The Boys Season 3 – Official Red Band Teaser Trailer | Prime Video Sir David Attenborough (oGXZGXU6PN) &nbsp;&nbsp; Mshale",
-      "image": "assets/the-boys-vought-rising.jpg",
-      "score": 4,
-      "required": [
-        "series",
-        "season",
-        "episode",
-        "netflix",
-        "hbo",
-        "prime",
-        "disney"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-30T08:43:10.451Z",
       "usedDefaultImage": true
     }
   ]
