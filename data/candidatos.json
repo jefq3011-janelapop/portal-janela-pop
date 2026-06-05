@@ -1,6 +1,104 @@
 {
   "items": [
     {
+      "id": "jp-ba51376",
+      "title": "From Series Spoiler Theory",
+      "titlePt": "From Series Spoiler teoria",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1txy9ko/from_series_spoiler_theory/",
+      "pubDate": "2026-06-05T21:36:37+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 5,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-05T22:44:37.977Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-ba80046b",
+      "title": "From Theory: Donna is distracting us from something big!",
+      "titlePt": "From teoria: Donna is distracting us from something big!",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1txyduc/from_theory_donna_is_distracting_us_from/",
+      "pubDate": "2026-06-05T21:41:34+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-05T22:44:37.977Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-6b65d69d",
+      "title": "Disney Debuts Ice Age: Boiling Point Teaser Trailer Watch Now! - Just Jared",
+      "titlePt": "Disney Debuts Ice Age: Boiling Point teaser trailer assistir Now!",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXBWckRUUmE1dHRDM1E2dHhDRG9rZFhxeEFjTnJuVExuWWJMeWlfV2tRdkxjazZySm03TzhFakFWT212YVM2TS1Vc1JvWWxkclV1LW01eHpYX25EVjBLbHRzSjBNWVlPQzhrQVdabmstSTByeFk3NElaVmE4amE0RXlnRHNZVmFVdGZmZTBHOFlEQTJJbnVJZUJSdG1Jak0?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 19:53:09 GMT",
+      "description": "Disney Debuts ‘Ice Age: Boiling Point’ Teaser Trailer – Watch Now! &nbsp;&nbsp; Just Jared",
+      "image": "assets/moana-live-action.jpg",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-05T22:44:38.360Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-38373f9f",
+      "title": "Elle Teaser Trailer Previews Prime Videos Legally Blonde Prequel Show - AOL.com",
+      "titlePt": "Elle teaser trailer Previews Prime Videos Legally Blonde Prequel Show",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFlTZHdIN0Z6bHhpNWxSU25jNUpwR0x5VFVHOTFDQXE5em1SX3lsX0hWdHpsc0JVUmM1X1BRcnFBRjE4NDBGZW83THBqOHE0MmdkWXVjVUNfMHBrVE1EQ3pLYXJlUWNBTGFpNHNtT3pMbVU1Tm1vN2Vockc2ZVJMVWt4TzQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 18:28:04 GMT",
+      "description": "Elle Teaser Trailer Previews Prime Video’s Legally Blonde Prequel Show &nbsp;&nbsp; AOL.com",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-05T22:44:38.361Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-fac4f070",
+      "title": "Invincible Season 4 - Teaser Trailer | Prime Video Benfica Braga (xuHrYstbBl) - Mshale",
+      "titlePt": "Invincible temporada 4",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCMUs4M0VZZU1MQm5Bb1RFNG5KblI2dHRMY0wzblh2UTJPR1cwQTJUVVI5eUFJQTR3b0c3a3hDc0xfYXhtUWh6S2ZLZzQ3bXdic09BOG52c184anZrQ3NRdA?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 04:00:21 GMT",
+      "description": "Invincible Season 4 - Teaser Trailer | Prime Video Benfica – Braga (xuHrYstbBl) &nbsp;&nbsp; Mshale",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-05T22:44:38.361Z",
+      "usedDefaultImage": true
+    },
+    {
       "id": "jp-ee781909",
       "title": "Scary Movie 6 Ending Explained: Ghostface & Mid-Credits [Spoilers] - altbollywood.com",
       "titlePt": "Scary filme 6 final explicado: Ghostface & Mid-Credits [Spoilers]",
@@ -1133,103 +1231,6 @@
       ],
       "status": "pendente",
       "createdAt": "2026-06-01T19:27:46.247Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-5a6b5627",
-      "title": "What That Door Means In From Season 4, Episode 6",
-      "titlePt": "What That Door Means In From temporada 4, episodio 6",
-      "series": "FROM",
-      "category": "From",
-      "source": "FROM - ScreenRant",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tcHVSNE9ZOTRVb3dtOTg1dUxkOXkwX0w3VDY1d3NiMEU2a3VlZzFHYUJLX1BubTBBdEVXZTM0YmctUjNqUElTTlcxV1pOdjZNSS1nRlQ1ZEJJNGpqeUUwYUdEb3VrREFsTlk2dw?oc=5",
-      "pubDate": "Sun, 31 May 2026 15:45:21 GMT",
-      "description": "What That Door Means In From Season 4, Episode 6 &nbsp;&nbsp; ScreenRant",
-      "image": "assets/from-serie.jpg",
-      "score": 4,
-      "required": [
-        "from"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-31T23:43:41.790Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-3604f518",
-      "title": "As a die hard From defender, season 4 episode 6 really annoyed me",
-      "titlePt": "As a die hard From defender, temporada 4 episodio 6 really annoyed me",
-      "series": "FROM",
-      "category": "From",
-      "source": "Reddit FromSeries",
-      "link": "https://www.reddit.com/r/FromSeries/comments/1ttb382/as_a_die_hard_from_defender_season_4_episode_6/",
-      "pubDate": "2026-05-31T23:35:39+00:00",
-      "description": "",
-      "image": "assets/from-serie.jpg",
-      "score": 4,
-      "required": [
-        "from"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-31T23:43:42.519Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-a4ddaae4",
-      "title": "Do a lot of the arguments in defense of certain filler From episodes fall apart when compared to the show Widows Bay?",
-      "titlePt": "Do a lot of the arguments in defense of certain filler From episodios fall apart quando compared to the show Widows Bay?",
-      "series": "FROM",
-      "category": "From",
-      "source": "Reddit FromSeries",
-      "link": "https://www.reddit.com/r/FromSeries/comments/1ttabc7/do_a_lot_of_the_arguments_in_defense_of_certain/",
-      "pubDate": "2026-05-31T23:01:49+00:00",
-      "description": "",
-      "image": "assets/from-serie.jpg",
-      "score": 4,
-      "required": [
-        "from"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-31T23:43:42.519Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-56285572",
-      "title": "Avengers: Doomsday Official Teaser Trailer | First Look Sophie Cunningham (QTLpnGPwbO) - Mshale",
-      "titlePt": "Avengers: Doomsday oficial teaser trailer | First Look Sophie Cunningham (QTLpnGPwbO)",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1LVcweHhBRjgwQ2E1VW1uZER2WUhZa2tRUUFMb0NGYV9VSW54bzJ6YWNfRWhyS09aOVFOM0JEQXctWmhUVmRvU1JkbExMUDV6OWZOMmQtcjhkMGM?oc=5",
-      "pubDate": "Sun, 31 May 2026 22:31:41 GMT",
-      "description": "Avengers: Doomsday Official Teaser Trailer | First Look Sophie Cunningham (QTLpnGPwbO) &nbsp;&nbsp; Mshale",
-      "image": "assets/banner-janela-pop.png",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-31T23:43:42.869Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-ee7c984e",
-      "title": "What will 'Off Campus' season 2 focus on? Here's a clue from the teaser",
-      "titlePt": "What will 'Off Campus' temporada 2 focus on? veja a clue from the teaser",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNal9KUjNfMmNZMFFpVFBfamZ4OHItSkxzV2JoT2RMdy1nNmhsSloyYi1NLVRhdWk3TzBEVEhreVFmTU9ncGF1LVkxVllfODU3UHdXVUdLWUJnVXc3OVdERVR2a3dHT2hURjIzUVJkYzhTeTA4S2pEQkFzSjdGcHQwRjBnWGFOYm1hTjZjZ1RZVjY0Ti1lRGNXWUtxZGRYd25pWUcxYjQ5M2QtUWZkdk9zY29GQzYtSzdHLTlqeDc4b3FSR3NoekxyVWZrRlZsR3NaUVNlTmhnTDB5TXNLUWJwY2stMXJxeHhiTWtGWWpEY3RPek1CLTU3N2pHbnJncEotc2xlS0pGb05IMm5CRXczTy1BRzN5N1lZV29JZkVTeHVxaFhERC1OVno3a1N2cVRnalJFTlNHYzdDbllERGNHZ3BKNzVzRDBBbi1MVThSZm5BVzg4T0wteg?oc=5",
-      "pubDate": "Sun, 31 May 2026 05:32:06 GMT",
-      "description": "What will 'Off Campus' season 2 focus on? Here's a clue from the teaser &nbsp;&nbsp; MSN",
-      "image": "assets/from-serie.jpg",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-05-31T23:43:42.870Z",
       "usedDefaultImage": true
     }
   ]
