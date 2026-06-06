@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "id": "jp-5789627c",
+      "title": "When does From return with new episodes? From season 4 episode 7 title/premiere date",
+      "titlePt": "quando does From retorno com novo episodios? From temporada 4 episodio 7 title/premiere date",
+      "series": "FROM",
+      "category": "From",
+      "source": "FROM - IGN",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWVBeVJRemxOT1h0bWFLVTdZalZsVHVsZml3ZGdCdlozS25GZFBKLUJGb1Y4MHZEd0lEQTVLM21GVXJwSXBJRkF6akFIbWxaVm5mSkpBWm5KcWNOaE1FV0NvcjJSVngyOVRiRVp1N05kRmxza0drYU9jeW9XSS1LZnhZN0xyU25Iel9SbVVsc0dXSHdNT25IUlZnMWhVcFdqN0xxZl81bDZsX2duNFZ3NV9WZ2lhSXNtbjF5VnNMVXZra3MwQ2RkXw?oc=5",
+      "pubDate": "Sat, 06 Jun 2026 17:29:09 GMT",
+      "description": "When does ‘From’ return with new episodes? ‘From’ season 4 episode 7 title/premiere date &nbsp;&nbsp; MSN",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-06T20:44:40.475Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-a58dce48",
+      "title": "Season 4 Episode 7 release date/time?",
+      "titlePt": "temporada 4 episodio 7 data de estreia/time?",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1tyqvvd/season_4_episode_7_release_datetime/",
+      "pubDate": "2026-06-06T19:45:56+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-06T20:44:40.864Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-899356e4",
+      "title": "Exclusive trailer for episode 7",
+      "titlePt": "Exclusive trailer for episodio 7",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1tymnsj/exclusive_trailer_for_episode_7/",
+      "pubDate": "2026-06-06T17:02:20+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-06T20:44:40.865Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-b2c8c918",
+      "title": "The Boys Season 3 Official Red Band Teaser Trailer | Prime Video Duncan Robinson (AbeUz9SMEG) - Mshale",
+      "titlePt": "The Boys temporada 3 oficial Red Band teaser trailer | Prime Video Duncan Robinson (AbeUz9SMEG)",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNQmNxcWtnWlY5VnhuUDNYV3hOWncyZHlYUG1XRTg0YjV4SFZGNlZHTG1kMjREUWxnYXh4aFY3QUdlWXl5TDFoNm5zSVdWR1F1S0hSYlE1elljWUU?oc=5",
+      "pubDate": "Sat, 06 Jun 2026 15:27:24 GMT",
+      "description": "The Boys Season 3 – Official Red Band Teaser Trailer | Prime Video Duncan Robinson (AbeUz9SMEG) &nbsp;&nbsp; Mshale",
+      "image": "assets/the-boys-vought-rising.jpg",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-06T20:44:41.239Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-dff17641",
+      "title": "Pixar's \"Gatto\" Teaser Trailer Will Debut With \"Toy Story 5\" in Theaters - LaughingPlace.com",
+      "titlePt": "Pixar's \"Gatto\" teaser trailer Will Debut com \"Toy Story 5\" in Theaters",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWJxYjZVdWVFbVpMTEc1Yy16S3FqejJ5ODBKYTlrbjRhaDNTVzMxNEtzdV9PTnJGOGk3WWZ1R1VLWkFUN3FLN3NMajI5MjJmTDJXaUJnXzJpQURPR2xTRlZ6ak1LOXRPNlNlT2NINnBxeV9kb0hzRS1sajJJTVZyVHdIYkhSeF9Ic214ai1id3lrSzVP?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 23:35:32 GMT",
+      "description": "Pixar's \"Gatto\" Teaser Trailer Will Debut With \"Toy Story 5\" in Theaters &nbsp;&nbsp; LaughingPlace.com",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-06T20:44:41.240Z",
+      "usedDefaultImage": true
+    },
+    {
       "id": "jp-d2bb8920",
       "title": "Avengers: Doomsday trailer imminent, fans believe, following teaser from former Fortnite boss",
       "titlePt": "Avengers: Doomsday trailer imminent, fas believe, following teaser from former Fortnite boss",
@@ -1128,103 +1225,6 @@
       ],
       "status": "pendente",
       "createdAt": "2026-06-03T15:57:01.286Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-96393e4d",
-      "title": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Wont Accept) - IMDb",
-      "titlePt": "From Star Reveals Storyline That Needs To Happen Before The Series episodio final (And 1 final They Wont Accept)",
-      "series": "FROM",
-      "category": "From",
-      "source": "FROM - ScreenRant",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55UzZyWkptR1hfMVBOMmZwU0xra1JPakJfUjJuTEhQSVRodUN5YlNPd1lYdVRVWlV0c01KSVNwYXRwY1NwVGtLbkl1ZmNzWHZRMXB2endKQmU4Z0tzN2hKdFl1bVA?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 19:07:40 GMT",
-      "description": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Won’t Accept) &nbsp;&nbsp; IMDb",
-      "image": "assets/from-serie.jpg",
-      "score": 6,
-      "required": [
-        "from"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-02T22:13:25.472Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-8ef7f5ba",
-      "title": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Wont Accept)",
-      "titlePt": "From Star Reveals Storyline That Needs To Happen Before The Series episodio final (And 1 final They Wont Accept)",
-      "series": "FROM",
-      "category": "From",
-      "source": "FROM - ScreenRant",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2dxUThSZGtuWU5kVzB3QmZ3OGhLSjY2eEZvdHdZRFhhRE1hUEVzV0RHS0pQLUlRbTZ5QWFGYUlBaTVHSHdDRHd5NkZaQl9iQzB5MXhHUXNXZEtJMlJKMXYxWWVCU1V4czZqYlcxX2hXeUxSQTl6MTFIWW8wU096YzVoM2otZ2wtNTlQQU5n?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 13:00:26 GMT",
-      "description": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Won’t Accept) &nbsp;&nbsp; ScreenRant",
-      "image": "assets/from-serie.jpg",
-      "score": 6,
-      "required": [
-        "from"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-02T22:13:25.472Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-a2dcdfa2",
-      "title": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Wont Accept) - IMDb",
-      "titlePt": "From Star Reveals Storyline That Needs To Happen Before The Series episodio final (And 1 final They Wont Accept)",
-      "series": "FROM",
-      "category": "From",
-      "source": "FROM - Terror",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUGNHSzRyUEJLVGFkaTdfMlptSkZ4SzZXUXJLemxaMHIzbXh0TV9rT3N0clg4dEZ4aUFndW53c0ViZjNGbGh4Qk5oRm54WEFwZlBNajRERVJfX3dITG90dnlmNU4?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 17:13:50 GMT",
-      "description": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Won’t Accept) &nbsp;&nbsp; IMDb",
-      "image": "assets/from-serie.jpg",
-      "score": 6,
-      "required": [
-        "from"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-02T22:13:25.679Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-8cf0020d",
-      "title": "Netflix's 'A Different World' Gets A Release Date & New Teaser Trailer - Hot 100.9",
-      "titlePt": "Netflix's 'A Different World' Gets A data de estreia & novo teaser trailer",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnpJZ0NGYUdsRXdsc2NoVnVXR08yWkNJbXprc2ptY3d0czRsRWN2Vm9NN2dtUmdwWmZyQVhiX3RmTXJpZS1lYnlaQ3F4UHBETXJ2aGYyTG5FclFVR0J3Z3BhbjVlc1pzWHBDZFU3RmZxdHdjbkxodVRrQ2t6RGp3LWUwaUx5M282bWxqQW1Mc3dOejRVSUE?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 10:23:29 GMT",
-      "description": "Netflix's 'A Different World' Gets A Release Date & New Teaser Trailer &nbsp;&nbsp; Hot 100.9",
-      "image": "assets/the-boroughs-netflix.jpg",
-      "score": 6,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-02T22:13:26.925Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-925d8cb6",
-      "title": "Outlander: Blood of My Blood: Season Two Premiere Date and Teaser Unveiled by Starz - TV Series Finale",
-      "titlePt": "Outlander: Blood of My Blood: temporada Two Premiere Date and teaser Unveiled by Starz",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcG9iQjNXX2wxZldjZEJrWGpZajRPWHpFdWdnWVZVZWF0OWF5Yl9NclNiaTJmUHRWNXF2MUJPRWVSRjFraklZQ252T0hqVDlpUGxIb2czeXJFa1Z4dGNFQlc1VkVVYkJ4aDZwZng1aW5keWVicWxnelc5bXJUQUJXM1ZCVld5TzdiTjF6NGVaZGpXeEFiYTZTOXplUWxacUpxemdJek5nRUU4VEtWQk8tRnZDb01mVF9r0gG-AUFVX3lxTE4zX2ViSTViYlRPdHNIWWtuY3M2dWQ2Wkg3dEg2VE9yT0FJQkZBTHlVbC10NHB6c2s2MjV2MGZQbk5UX29XZFhOVnBDT1ZBaEFNZVVZeHVpS0d4NUM5MHlPT051VEYzSlJLYVJ5Mk1DbUU0bEdpQVZsbXo2SUhjMy1oamYtbU1ESm1ob2poLTQxdmlHVjloN25IWGNBdVRpbE9FYkJLQ090RUdaanpQSThyMjJ6RXFUS1NoZFJmZ1E?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 14:09:40 GMT",
-      "description": "Outlander: Blood of My Blood: Season Two Premiere Date and Teaser Unveiled by Starz &nbsp;&nbsp; TV Series Finale",
-      "image": "assets/banner-janela-pop.png",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-02T22:13:26.925Z",
       "usedDefaultImage": true
     }
   ]
