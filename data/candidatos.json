@@ -1,6 +1,107 @@
 {
   "items": [
     {
+      "id": "jp-e103f949",
+      "title": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Wont Accept) - AOL.com",
+      "titlePt": "From Star Reveals Storyline That Needs To Happen Before The Series episodio final (And 1 final They Wont Accept)",
+      "series": "FROM",
+      "category": "From",
+      "source": "FROM - ScreenRant",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamJRNVlFNzhtYldWY25Xdmc1OEhiVWJxZmRSVEM2eURRNkMwaDFaOWpRaEJFZ0ZVZ1VIOWVHOUMzZUNtTU9tcVlqSEktTjRNZXBDQXluX1lZSG5nUVpIekNhc3ZpemVOeE9VN1JVY2RubVV5WjE1c1BpR3k1alE4S2J0OXgxQnRWWS1yeQ?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 00:13:19 GMT",
+      "description": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Won’t Accept) &nbsp;&nbsp; AOL.com",
+      "image": "assets/from-serie.jpg",
+      "score": 6,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T20:00:10.534Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-b6b532b6",
+      "title": "From Season 4 Episode 8 release date, time, what to expect and more - soapcentral.com",
+      "titlePt": "From temporada 4 episodio 8 data de estreia, time, what to expect and more",
+      "series": "Series",
+      "category": "Series",
+      "source": "Google News - Series",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVElPdmNIRU5iR3pnUFR5ZjBURkJqMm9lT0FDZFVtR0lOUUdoeV9TN0tPRC1GMVhjcG0tdS1wRjJZRXhhdU5uaXFSTm8tbHJxMkt1akxoRHhGaGxiYVZBZTJPY2tRZnhta2lIaENfeXB5RXJTaHZicjhXRFMzY0JCV2lkOThPNjhlUHc?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 15:14:15 GMT",
+      "description": "From Season 4 Episode 8 release date, time, what to expect and more &nbsp;&nbsp; soapcentral.com",
+      "image": "assets/from-serie.jpg",
+      "score": 6,
+      "required": [
+        "series",
+        "season",
+        "episode",
+        "netflix",
+        "hbo",
+        "prime",
+        "disney"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T20:00:12.613Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-b86dadf6",
+      "title": "After 37 Episodes, From Officially Ends A Series-Long Complaint",
+      "titlePt": "After 37 episodios, From Officially Ends A Series-Long Complaint",
+      "series": "FROM",
+      "category": "From",
+      "source": "FROM - ScreenRant",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUFhNLWktT1U3N2tPbkM1Wk9nbHB3Q09pUXJSUzlPY1RIdVplOVV0bkt1aEhuQnRDUVVmWUZsbkc5bTdtNWdycEIxRWsyVm1rdVcwQlI1d0Q0R3hwX2lMVVhmWmswTlVqeDQ5U09FUmN4QQ?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 16:45:21 GMT",
+      "description": "After 37 Episodes, From Officially Ends A Series-Long Complaint &nbsp;&nbsp; ScreenRant",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T20:00:10.535Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-2827fe43",
+      "title": "Typical night watching an episode of FROM",
+      "titlePt": "Typical night watching an episodio of FROM",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1tzm2bw/typical_night_watching_an_episode_of_from/",
+      "pubDate": "2026-06-07T19:48:22+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T20:00:11.918Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-2f93246f",
+      "title": "A question I have from this episode.",
+      "titlePt": "A question I have from this episodio.",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1tzlu25/a_question_i_have_from_this_episode/",
+      "pubDate": "2026-06-07T19:39:30+00:00",
+      "description": "",
+      "image": "assets/from-serie.jpg",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T20:00:11.918Z",
+      "usedDefaultImage": true
+    },
+    {
       "id": "jp-f2d0c7dc",
       "title": "FROM on Mgm Deep Dive Podcast: Season 4 Episode 7 \"Best Laid Plans\" With Dave and Stacie",
       "titlePt": "FROM on Mgm Deep Dive Podcast: temporada 4 episodio 7 \"Best Laid Plans\" com Dave and Stacie",
@@ -1098,115 +1199,6 @@
       ],
       "status": "pendente",
       "createdAt": "2026-06-04T18:37:23.797Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-d4d91265",
-      "title": "The Legend of Vox Machina Season 4 Review: Check Release Date, Plot, Full Cast, Rating, Languages & Ending Explained for Penultimate Season of High Fantasy - The Sunday Guardian",
-      "titlePt": "The Legend of Vox Machina temporada 4 Review: Check data de estreia, Plot, Full elenco, Rating, Languages & final explicado for Penultimate temporada of High Fantasy",
-      "series": "Series",
-      "category": "Series",
-      "source": "Google News - Series",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQT0ZzT05iWjV1eDhUM1R4VmJ4TEJyNnV0TFpvWlhzREd1akdJQnV5cnk4LUtMaHZWTVF2Z09Wd3AxREFZemotNmpfbC14bVpqcEt4aVZ0QkJqU3dPWXNiMExtUUNTdlUwZXYwNmFQcUdkNnZLMFhqSnNKVlJiaDlvQW1QdklmWGpXSVVUX1FGSHlqbkVRemNhV2NRZjNOZDFUYkJoMWRQVUZSYUtyNU5PdDR0WGJmVHp2MVMycVF1NExpM2xUM0ZiMXJlNVhzcGl6NWlZZmoyZnNFOEpQQ3o0N0hzVF9BakVaQjdsbl9vZFo2TzZMV0Zaci16OV9PV3FCTWg3b1EyY0lqRU1FaW5MYWRQYVp0Q3R5bFJYMXJEM3U0QXhpYk5FcG5uenkzcDjSAbQCQVVfeXFMTVBodXNXaUc5R21SMUFjcWtUVGNGcXdpZFNKcDJPdk03cVZlRmg3azZSRTZwSFpRbF9RQTVNQXZtU1JXdWVLckhoWXZBWFBQbG9IWDdtZ2JITTEtaTgwRTFhQ2dHVDJvMzAzVE5ZSXF1d18xSkszTktuX1M2WkZmbE1jRjd2eEdVTk1wQ1M1aFZITDcwRUFoelFoZFFJblh3VmdadjhRbUsyTUhNUGpuckxwd2JObWs0eUh4TDRXYTBGSkduakd6YUlXYUMxeXZuWlRDaFlYamc4QU5QUlppdjh5aHMyVnRyVFdkdndZdHdoYnI0c0FoZWkwcnd4ZWRoeWJieUlYWHdwczFCM215V1JoLVdpS1JsNUhjQzNjSzVtNlBMc2FyalE5al82T2ZSOXRURGE?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 14:23:47 GMT",
-      "description": "The Legend of Vox Machina Season 4 Review: Check Release Date, Plot, Full Cast, Rating, Languages & Ending Explained for Penultimate Season of High Fantasy &nbsp;&nbsp; The Sunday Guardian",
-      "image": "assets/banner-janela-pop.png",
-      "score": 8,
-      "required": [
-        "series",
-        "season",
-        "episode",
-        "netflix",
-        "hbo",
-        "prime",
-        "disney"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-04T10:51:34.512Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-7a5d28d5",
-      "title": "Avengers: Doomsday: Release Date, Full Cast, Trailer & Everything We Know - Cosmic Book News",
-      "titlePt": "Avengers: Doomsday: data de estreia, Full elenco, trailer & Everything We Know",
-      "series": "Marvel e DC",
-      "category": "Filmes",
-      "source": "Google News - Marvel e DC",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzVHNTNnRPczBrcEVHZFNCNkhIcm15cjQtQVhTRW81VVF0c24xbkVSeW5DaGlBc0U4WkhhQ1Rucld5SjlKSU02V2M1T3pKbVlOeGpR?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 20:07:47 GMT",
-      "description": "Avengers: Doomsday: Release Date, Full Cast, Trailer & Everything We Know &nbsp;&nbsp; Cosmic Book News",
-      "image": "assets/banner-janela-pop.png",
-      "score": 6,
-      "required": [
-        "marvel",
-        "dc",
-        "superman",
-        "batman",
-        "avengers",
-        "spider-man"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-04T10:51:35.752Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-d2819e6d",
-      "title": "A Different World Netflix Sequel TV Show Sets Unique Release Date, Watch Teaser Video - AOL.com",
-      "titlePt": "A Different World Netflix Sequel TV Show Sets Unique data de estreia, assistir teaser Video",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTQtRGVNNHJKWFlwNkJSWTVrQmM0TkRvcXgyWG5oWU9nM1N3VGhnUFJBdUgxbzVQOUZGR09QQVdSUEU5el9yNHZMVkRLejJUakhNTmhRaTl0M1A3UW0wLVg2MlVUeEZEZV9BQWVLN29RUXZIQlF6bmJWYThpaFVpTzhjVG9TWThqcUE?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 06:00:07 GMT",
-      "description": "A Different World Netflix Sequel TV Show Sets Unique Release Date, Watch Teaser Video &nbsp;&nbsp; AOL.com",
-      "image": "assets/the-boroughs-netflix.jpg",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-04T10:51:34.058Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-d177f3e8",
-      "title": "Vought rising - official teaser trailer",
-      "titlePt": "Vought rising",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0RhTmExVmNZTGFIRHVwMDNQMkpXWW9ZQWkyLWRqNFdNT3p1OGJRLTZtaDVOakVaSWFPV1hWRXoydlN5SHlNZXRuTU5qNFFESFhaLVRKRHktclQyakZjSERMcVRWY04tVzZxcy1BSnB0RWZMZkZkczZCbXdoRmhhMjA5NlpCSmF4UkUycl9RWVZpaTN4RGJJNnhCTWJUQTB1blJDQkJleTFZbGkyQVpuRjNqY19SblBFakxwb1ctSWFjWHljbmlBTzZ3ejY1UVU?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 05:49:54 GMT",
-      "description": "Vought rising - official teaser trailer &nbsp;&nbsp; MSN",
-      "image": "assets/the-boys-vought-rising.jpg",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-04T10:51:34.058Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-e7c3f69c",
-      "title": "Dutton Ranch Episode 5 Teaser: Paramount+ Releases 2 Stills Ahead of Debut, Plus New Video Footage! - IMDb",
-      "titlePt": "Dutton Ranch episodio 5 teaser: Paramount+ Releases 2 Stills Ahead of Debut, Plus novo Video Footage!",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HZWU1RG1kNzQzX0dlSW92RWVnTjVhb3Q0OXk0VkdhSU00OEItbmxlcnlmSW5rR0tHWERxU1dIUXp0QzlIaFBaMkZGZERpSGZ0bTNITHZQMGRPSjJIYVU3RklzNWVoZGh4akE?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 00:28:26 GMT",
-      "description": "‘Dutton Ranch’ Episode 5 Teaser: Paramount+ Releases 2 Stills Ahead of Debut, Plus New Video Footage! &nbsp;&nbsp; IMDb",
-      "image": "assets/banner-janela-pop.png",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-04T10:51:34.058Z",
       "usedDefaultImage": true
     }
   ]
