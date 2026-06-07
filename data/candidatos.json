@@ -1,6 +1,104 @@
 {
   "items": [
     {
+      "id": "jp-f2d0c7dc",
+      "title": "FROM on Mgm Deep Dive Podcast: Season 4 Episode 7 \"Best Laid Plans\" With Dave and Stacie",
+      "titlePt": "FROM on Mgm Deep Dive Podcast: temporada 4 episodio 7 \"Best Laid Plans\" com Dave and Stacie",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1tzd3sh/from_on_mgm_deep_dive_podcast_season_4_episode_7/",
+      "pubDate": "2026-06-07T14:07:27+00:00",
+      "description": "",
+      "image": "https://external-preview.redd.it/dsYRtdN0nGWKqjWywNilp3fG0q1xQ-NTk5bBmSv4RKY.jpeg?width=320&crop=smart&auto=webp&s=9f4c6584e637ed88037f0c295d0d0d06f24b36d3",
+      "score": 6,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T15:08:11.296Z",
+      "usedDefaultImage": false
+    },
+    {
+      "id": "jp-5f1e7998",
+      "title": "Was Waiting for Episode 7 and my friend made this ridiculous From-inspired cat mini series",
+      "titlePt": "Was Waiting for episodio 7 and my friend made this ridiculous From-inspired cat mini series",
+      "series": "FROM",
+      "category": "From",
+      "source": "Reddit FromSeries",
+      "link": "https://www.reddit.com/r/FromSeries/comments/1tzdac4/was_waiting_for_episode_7_and_my_friend_made_this/",
+      "pubDate": "2026-06-07T14:14:49+00:00",
+      "description": "",
+      "image": "https://preview.redd.it/pebauhincv5h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c1085f9b89b69dcf1cf0a1a2e9837942917db629",
+      "score": 4,
+      "required": [
+        "from"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T15:08:11.296Z",
+      "usedDefaultImage": false
+    },
+    {
+      "id": "jp-c682a3a8",
+      "title": "Clarkson's Farm season 5 episodes 5-6 release date and time when do they drop on Prime Video this week? - TechRadar",
+      "titlePt": "Clarkson's Farm temporada 5 episodios 5-6 data de estreia and time quando do they drop on Prime Video this week?",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUFjYmwxYWRxekNHa1doQlY1a0ZOeGpOVmt1enpISWsxVlBoLUtEUmNtTVF2VjlZUWU2REQxMzZuOTlmWXdIU1BlSFV1VjM0XzM0VVJzSTlaZWxjVE5jM3ZfRFdVUXh4WGNxbzhhLTBzVWZFbVl6SVV4QXN5akhlclB4NjQ2OVo2TGxvTDlzRWtDakN1d1dnNUZRTDI0YXliM1dFSmJadjFIZW9zYXc?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 13:00:00 GMT",
+      "description": "Clarkson's Farm season 5 episodes 5-6 release date and time — when do they drop on Prime Video this week? &nbsp;&nbsp; TechRadar",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T15:08:11.635Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-1d0bc5f9",
+      "title": "Ice Age: Boiling Point Teaser Unveils New Cast and Familiar Faces - The Movie Blog",
+      "titlePt": "Ice Age: Boiling Point teaser Unveils novo elenco and Familiar Faces",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWkZzOEJscjQ1MUtkTkYxRC1FT0U5Mkc0NV9NdS1FMUY4R21uaHJtSHphSlBacTEyODVnc0JQc2d6TU93TmRPQWpXMUNnRlIyMXY5RHYyakxLbkdUd3kyWXRnUk55QnZKcW9BS1lKSVRiSnhQRVdoWHQ4TnJ4YzQ?oc=5",
+      "pubDate": "Sat, 06 Jun 2026 21:02:06 GMT",
+      "description": "Ice Age: Boiling Point Teaser Unveils New Cast and Familiar Faces &nbsp;&nbsp; The Movie Blog",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T15:08:11.636Z",
+      "usedDefaultImage": true
+    },
+    {
+      "id": "jp-9dd07cdb",
+      "title": "Ice Age 6 teaser trailer & poster previews animated movie franchise's boiling point",
+      "titlePt": "Ice Age 6 teaser trailer & poster previews animated filme franchise's boiling point",
+      "series": "Cultura pop",
+      "category": "Trailers",
+      "source": "Google News - Trailers",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVJoNGlpMTVGSEphWWlCMWdFN1NoaTlCY1o3M1RHcXNHZ3N5LUJTWFJSZEhEM3ktaE5jcHREaG85MkV6UGhuV3R3SEVCeTgyY3hOLUxpQkV1aC1YWGNmQkppclhYWEhjdHIwVG4xc0dNMlR6SXRJOHVieGVVWVkyTnM0TGMySC12LWRTRjJvWjdwaHM3QUV2Q1V2a0lsNGdmQjF1LU5JTWwzdEhsNzFGT2tDcTc0X1hFN3Q0dU9JNzNFRlRlQk9WZEV3?oc=5",
+      "pubDate": "Sat, 06 Jun 2026 20:21:15 GMT",
+      "description": "Ice Age 6 teaser trailer & poster previews animated movie franchise's boiling point &nbsp;&nbsp; MSN",
+      "image": "assets/banner-janela-pop.png",
+      "score": 4,
+      "required": [
+        "trailer",
+        "teaser"
+      ],
+      "status": "pendente",
+      "createdAt": "2026-06-07T15:08:11.636Z",
+      "usedDefaultImage": true
+    },
+    {
       "id": "jp-fce3fc56",
       "title": "Inside Edge Season 2: Cast, Crew, Movie Review, Release Date, Teaser, Trailer - filmyfocus.com",
       "titlePt": "Inside Edge temporada 2: elenco, Crew, filme Review, data de estreia, teaser, trailer",
@@ -1109,119 +1207,6 @@
       ],
       "status": "pendente",
       "createdAt": "2026-06-04T10:51:34.058Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-61887d2",
-      "title": "The Legend of Vox Machina Season 4 Review: Check Release Date, Plot, Full Cast, Rating, Languages & Ending Explained for Penultimate Season of High Fantasy - The Sunday Guardian",
-      "titlePt": "The Legend of Vox Machina temporada 4 Review: Check data de estreia, Plot, Full elenco, Rating, Languages & final explicado for Penultimate temporada of High Fantasy",
-      "series": "Series",
-      "category": "Series",
-      "source": "Google News - Series",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNUGh1c1dpRzlHbVIxQWNxa1RUY0Zxd2lkU0pwMk92TTdxVmVGaDdrNlJFNnBIWlFsX1FBNU1Bdm1TUld1ZUtySGhZdkFYUFBsb0hYN21nYkhNMS1pODBFMWFDZ0dUMm8zMDNUTllJcXV3XzFKSzNOS25fUzZaRmZsTWNGN3Z4R1VOTXBDUzVoVkhMNzBFQWh6UWhkUUluWHdWZ1p2OFFtSzJNSE1Qam5yTHB3Yk5tazR5SHhMNFdhMEZKR25qR3phSVdhQzF5dm5aVENoWVhqZzhBTlBSWml2OHloczJWdHJUV2R2d1l0d2hicjRzQWhlaTByd3hlZGh5YmJ5SVhYd3BzMUIzbXlXUmgtV2lLUmw1SGNDM2NLNW02UExzYXJqUTlqXzZPZlI5dFREYdIBtAJBVV95cUxNUGh1c1dpRzlHbVIxQWNxa1RUY0Zxd2lkU0pwMk92TTdxVmVGaDdrNlJFNnBIWlFsX1FBNU1Bdm1TUld1ZUtySGhZdkFYUFBsb0hYN21nYkhNMS1pODBFMWFDZ0dUMm8zMDNUTllJcXV3XzFKSzNOS25fUzZaRmZsTWNGN3Z4R1VOTXBDUzVoVkhMNzBFQWh6UWhkUUluWHdWZ1p2OFFtSzJNSE1Qam5yTHB3Yk5tazR5SHhMNFdhMEZKR25qR3phSVdhQzF5dm5aVENoWVhqZzhBTlBSWml2OHloczJWdHJUV2R2d1l0d2hicjRzQWhlaTByd3hlZGh5YmJ5SVhYd3BzMUIzbXlXUmgtV2lLUmw1SGNDM2NLNW02UExzYXJqUTlqXzZPZlI5dFREYQ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 14:24:08 GMT",
-      "description": "The Legend of Vox Machina Season 4 Review: Check Release Date, Plot, Full Cast, Rating, Languages & Ending Explained for Penultimate Season of High Fantasy &nbsp;&nbsp; The Sunday Guardian",
-      "image": "assets/banner-janela-pop.png",
-      "score": 8,
-      "required": [
-        "series",
-        "season",
-        "episode",
-        "netflix",
-        "hbo",
-        "prime",
-        "disney"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-03T23:15:05.605Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-e103f949",
-      "title": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Wont Accept) - AOL.com",
-      "titlePt": "From Star Reveals Storyline That Needs To Happen Before The Series episodio final (And 1 final They Wont Accept)",
-      "series": "FROM",
-      "category": "From",
-      "source": "FROM - ScreenRant",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamJRNVlFNzhtYldWY25Xdmc1OEhiVWJxZmRSVEM2eURRNkMwaDFaOWpRaEJFZ0ZVZ1VIOWVHOUMzZUNtTU9tcVlqSEktTjRNZXBDQXluX1lZSG5nUVpIekNhc3ZpemVOeE9VN1JVY2RubVV5WjE1c1BpR3k1alE4S2J0OXgxQnRWWS1yeQ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 03:04:12 GMT",
-      "description": "From Star Reveals Storyline That Needs To Happen Before The Series Finale (And 1 Ending They Won’t Accept) &nbsp;&nbsp; AOL.com",
-      "image": "assets/from-serie.jpg",
-      "score": 6,
-      "required": [
-        "from"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-03T23:15:03.955Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-b1cb0794",
-      "title": "Clarkson's Farm season 5 episode 5 release date explained as fans face wait - Daily Express",
-      "titlePt": "Clarkson's Farm temporada 5 episodio 5 data de estreia explicado as fas face wait",
-      "series": "Series",
-      "category": "Series",
-      "source": "Google News - Series",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVZjckppWTFHOTV4T1lmQkhCd2NlT0VNd0lROW5rcEFSQ0Z2MWZ6dk1SMXVqTldpa2xOYVdzU2ZyTm43el9ZZVVhejZENmxFRndYNmVYNF95UzZDLUdMTmhKWHB3a0Rsd2VPemxWZzlIRk9jUnBKSmI4Zk91dTBBd0tDNlg2THhIUjM5N2VhTXZYQnJQd0N0dEpWUXdlZVNTVFdNQ2diWlN0WS1YclBKZHZyQ2VrQWdQVHRzc0tfSHnSAcYBQVVfeXFMTkVZSFFBUFFqTm5uRThLSUotZHNsYmNMWXVEODYyVE5qanV3VFdKVEd1TmlzM2x6Y0dXRWhRS0h3SDVVZUVsNWhFSmxRY0MtdmlrN2NLS2JIb1dod3NHVDJyTXNYUkFPU0p1OEpIVm9hc1FkX2NnTU1uU0pOM2k4R2JfaVAxejdyeU1qSmhXNzNHd05MQll3MS11TWRWcmtfa1ZKZzBtOFp1dVQ1UHVyZEdERkxqQmVmdXlzbV9Qc3Z3ei1YWlhR?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 14:36:00 GMT",
-      "description": "Clarkson's Farm season 5 episode 5 release date explained as fans face wait &nbsp;&nbsp; Daily Express",
-      "image": "assets/banner-janela-pop.png",
-      "score": 6,
-      "required": [
-        "series",
-        "season",
-        "episode",
-        "netflix",
-        "hbo",
-        "prime",
-        "disney"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-03T23:15:05.605Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-598d8eb3",
-      "title": "Spider-Man: Brand New Day: Release Date, Cast, Plot, Villains, Trailer & Latest News - Cosmic Book News",
-      "titlePt": "Spider-Man: Brand novo Day: data de estreia, elenco, Plot, Villains, trailer & Latest News",
-      "series": "Marvel e DC",
-      "category": "Filmes",
-      "source": "Google News - Marvel e DC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qU3FJM2hoWG9TbnZ2Tnd6SVFwbzJHUm1QeTJ1aTh6UWF1T3JYUlBMdS1SSE5kMHg1QkhqU1dWVW55WllCU3E0ZVpxOG5jbzZpbTJ1cHpOYlFEazFE?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 06:46:02 GMT",
-      "description": "Spider-Man: Brand New Day: Release Date, Cast, Plot, Villains, Trailer & Latest News &nbsp;&nbsp; Cosmic Book News",
-      "image": "assets/banner-janela-pop.png",
-      "score": 6,
-      "required": [
-        "marvel",
-        "dc",
-        "superman",
-        "batman",
-        "avengers",
-        "spider-man"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-03T23:15:06.981Z",
-      "usedDefaultImage": true
-    },
-    {
-      "id": "jp-d12e0ce",
-      "title": "Phantom Blade Zero - Official Teaser Trailer | State of Play 2026",
-      "titlePt": "Phantom Blade Zero",
-      "series": "Cultura pop",
-      "category": "Trailers",
-      "source": "Google News - Trailers",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTU2Q0JZNGZielZ3WTYtd3BLWEM3bzZYWVhXMXNBOW9BaWttTVllZEVOUWRoNTcyT290NWtBNDV1OEJFdVJvNTNwclJDbktSQ0FtRzJrOWxjQU5Na3FUZnl1ZzBta2k2bEhnSnZ5Q0ZFejhCQnlMazJFQ2pIc1BUQjNTTnZJNmkwcW5ieEM2SERXNmZ0N3ltTmljRXpUemNMcHBvc01BME8yQQ?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 07:08:51 GMT",
-      "description": "Phantom Blade Zero - Official Teaser Trailer | State of Play 2026 &nbsp;&nbsp; IGN España",
-      "image": "assets/banner-janela-pop.png",
-      "score": 4,
-      "required": [
-        "trailer",
-        "teaser"
-      ],
-      "status": "pendente",
-      "createdAt": "2026-06-03T23:15:05.193Z",
       "usedDefaultImage": true
     }
   ]
