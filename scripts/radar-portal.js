@@ -1,6 +1,11 @@
 const fs = require("fs");
 const path = require("path");
-const { loadEnvFiles, normalizeCandidateImage, imageForItem: fallbackImageForItem } = require("./lib/editorial");
+const {
+  loadEnvFiles,
+  normalizeCandidateImage,
+  imageForItem: fallbackImageForItem,
+  buildCandidateBrief,
+} = require("./lib/editorial");
 
 const ROOT = path.join(__dirname, "..");
 const CANDIDATES_FILE = path.join(ROOT, "data", "candidatos.json");
@@ -178,6 +183,8 @@ function isRelevant(item) {
   const required = item.required || [];
   if (required.length && !required.some((term) => text.includes(term))) return false;
   if (/matka king|cricket|sports|stock market|weather|horoscope/i.test(text)) return false;
+  if (/mshale|filmyfocus|fathom journal|altbollywood|fenerbah|benfica|tenerife|robert irwin/i.test(text)) return false;
+  if (/\([a-z0-9]{8,}\)/i.test(item.title || "")) return false;
   if (item.category === "From" && !/\bfrom\b|mgm\+|fromseries/i.test(text)) return false;
   return true;
 }
@@ -326,6 +333,8 @@ async function sendTelegramCandidate(item) {
     `Codigo: ${item.id}`,
     `Tema: ${item.titlePt}`,
     `Categoria: ${item.category}`,
+    `Resumo: ${buildCandidateBrief(item)}`,
+    `Imagem: ${item.image ? "sim" : "nao"}`,
     "",
     "Toque em uma opcao:",
     "",

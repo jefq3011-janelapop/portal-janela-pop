@@ -163,6 +163,37 @@ function buildExcerpt(item) {
   return `Uma novidade sobre ${item.series} chamou atencao fora do Brasil e movimentou novas discussoes entre os fas.`;
 }
 
+function buildCandidateBrief(item) {
+  const title = item.titlePt || item.title || "Nova pauta";
+  const profile = getEditorialProfile(item);
+  const originalDescription = String(item.description || "")
+    .replace(/&nbsp;/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (profile === "from") {
+    return `Assunto ligado a FROM com potencial para teoria, debate e vídeo rápido. O gancho principal é entender o que essa novidade muda na leitura da série: ${title}.`;
+  }
+
+  if (profile === "trailer") {
+    return `Saiu material novo de divulgação, com potencial de busca imediata. Vale avaliar se o trailer tem nome forte, imagem boa e assunto que conversa com o público do Janela Pop.`;
+  }
+
+  if (profile === "horror") {
+    return `Novidade de terror/suspense com potencial para clique porque o público costuma reagir bem a ameaça, mistério e comparação com outras produções do gênero.`;
+  }
+
+  if (profile === "superheroes" || profile === "superheroes-adult") {
+    return `Movimentação de franquia ou super-heróis que pode gerar debate rápido, principalmente se envolver trailer, retorno de personagem, polêmica ou mudança de rumo.`;
+  }
+
+  if (originalDescription && originalDescription.length > 30) {
+    return originalDescription.slice(0, 260);
+  }
+
+  return `Pauta de cultura pop em alta fora do Brasil. Avaliar se tem nome reconhecível, busca quente e imagem forte para virar matéria ou vídeo curto.`;
+}
+
 function buildArticleBody(item) {
   const title = item.titlePt || item.title;
   const text = `${title} ${item.series}`.toLowerCase();
@@ -265,4 +296,5 @@ module.exports = {
   imageForItem,
   resolveImage,
   normalizeCandidateImage,
+  buildCandidateBrief,
 };

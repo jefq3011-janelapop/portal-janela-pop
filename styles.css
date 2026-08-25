@@ -205,7 +205,8 @@ input[type="search"] {
 }
 
 .featured-copy h3 {
-  font-size: clamp(2rem, 4.5vw, 4.2rem);
+  font-size: clamp(1.9rem, 3.2vw, 3.35rem);
+  line-height: 1;
 }
 
 .featured-copy p {
@@ -291,7 +292,8 @@ input[type="search"] {
 }
 
 .post-body h3 {
-  font-size: 1.65rem;
+  font-size: 1.45rem;
+  line-height: 1.05;
 }
 
 .post-body p,

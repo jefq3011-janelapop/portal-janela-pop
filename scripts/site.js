@@ -1,4 +1,7 @@
 const postFiles = [
+  "ali-g-who-iz-i-trailer-sacha-baron-cohen-cinemas.md",
+  "brothers-serie-matthew-mcconaughey-woody-harrelson-trailer-apple-tv.md",
+  "stranger-things-tales-from-85-temporada-2-trailer-netflix.md",
   "moana-live-action-ganha-trailer-e-mostra-nova-versao-da-aventura-da-disney.md",
   "criadores-de-stranger-things-revelam-trailer-de-nova-serie-sci-fi-da-netflix.md",
   "from-fas-debatem-qual-seria-o-final-ideal-para-a-serie.md",
